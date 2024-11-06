@@ -31,7 +31,7 @@ The dataset is released under the **PASSION Data Public License**, which include
 
 To access the dataset, please visit [https://passionderm.github.io/](https://passionderm.github.io/) and complete the required form. We recommend cloning this repository, then extracting the images folder from the zip archive into the empty images folder within the repository.
 
-To explore and interact with the dataset, we also suggest using the [Jupyter Notebook file](https://github.com/Digital-Dermatology/PASSION_project/blob/master/2024/Working_with_PASSION_Dataset.ipynb) provided in the repository.
+To explore and interact with the dataset, we also suggest using the [Jupyter Notebook file](https://github.com/Digital-Dermatology/PASSION_project/blob/master/MICCAI_2024/Working_with_PASSION_Dataset.ipynb) provided in the repository.
 
 labels.csv contains labels and metadata of the dataset.
 PASSION_split.csv features the TRAIN /TEST split. 

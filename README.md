@@ -9,7 +9,7 @@
 The repository is organized as follows:
 
 - **`MICCAI_2024/`**: Contains the main dataset and related code, publications, and supplementary files.  
-  Please refer to the [2024 folder README](https://github.com/Digital-Dermatology/PASSION_project/blob/master/2024/README.md) for detailed instructions and dataset usage.
+  Please refer to the [2024 folder README](https://github.com/Digital-Dermatology/PASSION_project/blob/master/MICCAI_2024/README.md) for detailed instructions and dataset usage.
 
 ## 📚 Publications
 
