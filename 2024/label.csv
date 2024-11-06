@@ -1,0 +1,1654 @@
+subject_id,country,age,sex,fitzpatrick,body_loc,impetig,conditions_PASSION
+AA00970008,Madagascar,7,m,3,hair; pelvic; arm; leg,1.0,Eczema
+AA00970009,Madagascar,3,m,4,back; hair; face; foot; hand; torso; arm; leg,1.0,Eczema
+AA00970025,Madagascar,3,m,3,torso,0.0,Others
+AA00970040,Madagascar,7,m,4,arm; foot; hand; torso; leg,1.0,Scabies
+AA00970047,Madagascar,74,m,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00970048,Madagascar,2,f,4,hand; foot; leg; back,0.0,Scabies
+AA00970049,Madagascar,3,f,4,,0.0,Scabies
+AA00970050,Madagascar,7,m,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00970052,Madagascar,29,f,4,arm,0.0,Others
+AA00970055,Guinea,42,f,5,back,0.0,Fungal
+AA00970056,Guinea,4,m,6,foot; hand; pelvic,1.0,Scabies
+AA00970059,Guinea,7,m,6,foot; hand; arm; leg,1.0,Scabies
+AA00970062,Guinea,18,m,6,arm; back,1.0,Eczema
+AA00970063,Guinea,15,f,6,arm,0.0,Eczema
+AA00970064,Guinea,64,f,6,,0.0,Eczema
+AA00970065,Guinea,16,f,6,torso,1.0,Eczema
+AA00970066,Guinea,7,m,6,,0.0,Eczema
+AA00970067,Guinea,27,f,6,torso,0.0,Eczema
+AA00970068,Guinea,26,f,6,arm,0.0,Eczema
+AA00970071,Guinea,41,f,6,arm,0.0,Eczema
+AA00970072,Guinea,30,f,6,,0.0,Eczema
+AA00970073,Guinea,4,m,6,torso,0.0,Eczema
+AA00970074,Guinea,1,f,6,arm,1.0,Eczema
+AA00970075,Guinea,5,m,6,pelvic,0.0,Scabies
+AA00970076,Guinea,61,f,6,foot,0.0,Fungal
+AA00970077,Guinea,24,m,6,foot,0.0,Eczema
+AA00970078,Guinea,52,m,6,foot,0.0,Eczema
+AA00970080,Guinea,27,m,6,face,0.0,Fungal
+AA00970081,Guinea,9,m,6,hair,0.0,Fungal
+AA00970082,Guinea,4,m,6,hair,0.0,Fungal
+AA00970084,Guinea,33,f,6,torso,0.0,Fungal
+AA00970085,Guinea,39,f,6,foot,1.0,Eczema
+AA00970086,Guinea,20,m,6,foot,0.0,Fungal
+AA00970087,Guinea,31,m,6,torso; back,0.0,Others
+AA00970088,Guinea,5,m,6,hair,0.0,Fungal
+AA00970089,Guinea,5,m,6,hand,0.0,Fungal
+AA00970090,Guinea,29,f,6,torso,0.0,Eczema
+AA00970091,Guinea,39,f,6,back,0.0,Eczema
+AA00970093,Guinea,31,m,6,foot,0.0,Eczema
+AA00970094,Guinea,42,f,6,foot,0.0,Fungal
+AA00970095,Guinea,43,m,5,foot,0.0,Eczema
+AA00970096,Guinea,32,m,6,foot,0.0,Fungal
+AA00970097,Guinea,29,m,6,back,0.0,Fungal
+AA00970098,Guinea,3,m,6,pelvic,0.0,Eczema
+AA00970099,Guinea,29,m,6,back,0.0,Eczema
+AA00970100,Guinea,56,m,6,hand,0.0,Eczema
+AA00970101,Guinea,42,m,6,hair,0.0,Fungal
+AA00970102,Guinea,30,f,6,foot,0.0,Eczema
+AA00970103,Guinea,36,m,6,foot,0.0,Eczema
+AA00970105,Guinea,45,m,6,torso,0.0,Fungal
+AA00970106,Guinea,57,m,6,leg,0.0,Fungal
+AA00970107,Guinea,4,m,6,torso,0.0,Fungal
+AA00970108,Guinea,4,m,6,,0.0,Fungal
+AA00970109,Guinea,7,m,6,arm,0.0,Scabies
+AA00970110,Guinea,3,m,6,pelvic,0.0,Scabies
+AA00970111,Guinea,54,m,6,foot,1.0,Fungal
+AA00970112,Guinea,7,f,6,face,1.0,Eczema
+AA00970113,Guinea,49,f,6,foot,0.0,Eczema
+AA00970115,Madagascar,5,f,5,pelvic; face; arm; torso; leg,1.0,Eczema
+AA00970116,Madagascar,12,f,4,leg,0.0,Eczema
+AA00970117,Madagascar,3,f,4,torso; back,1.0,Eczema
+AA00970119,Guinea,11,m,6,torso; back,0.0,Others
+AA00970120,Guinea,8,m,6,hair,0.0,Fungal
+AA00970121,Guinea,3,m,6,hair,0.0,Fungal
+AA00970122,Guinea,6,m,6,hair,0.0,Fungal
+AA00970123,Guinea,5,m,6,pelvic; back,0.0,Others
+AA00970124,Guinea,26,m,6,torso; back,0.0,Others
+AA00970125,Madagascar,31,f,4,torso; face; arm; back,0.0,Eczema
+AA00970126,Madagascar,33,m,4,face,1.0,Others
+AA00970127,Madagascar,26,f,4,face; arm,0.0,Eczema
+AA00970129,Madagascar,41,f,5,torso; face,0.0,Eczema
+AA00970130,Madagascar,24,m,5,face,1.0,Eczema
+AA00970132,Madagascar,26,m,4,torso,0.0,Fungal
+AA00970133,Madagascar,30,m,4,,0.0,Fungal
+AA00970134,Madagascar,1,f,3,leg,0.0,Others
+AA00970135,Madagascar,4,f,5,face; arm; leg,0.0,Eczema
+AA00970136,Madagascar,12,f,4,face; leg,1.0,Eczema
+AA00970137,Madagascar,1,f,4,torso; face; arm; leg,0.0,Eczema
+AA00970138,Madagascar,1,f,4,face,0.0,Eczema
+AA00970139,Madagascar,32,f,4,torso,0.0,Fungal
+AA00970140,Madagascar,3,f,4,back,0.0,Others
+AA00970141,Madagascar,4,f,4,face,0.0,Eczema
+AA00970142,Madagascar,29,f,5,arm,0.0,Scabies
+AA00970143,Madagascar,34,f,4,leg,0.0,Others
+AA00970144,Madagascar,29,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00970145,Madagascar,5,m,3,face,0.0,Eczema
+AA00970146,Madagascar,11,f,4,face; arm,0.0,Eczema
+AA00970147,Madagascar,51,f,5,,0.0,Fungal
+AA00970148,Madagascar,2,m,4,leg,0.0,Scabies
+AA00970149,Madagascar,1,m,4,foot; leg,1.0,Scabies
+AA00970150,Madagascar,5,m,5,torso; hand; pelvic,0.0,Scabies
+AA00970157,Madagascar,24,f,4,arm,0.0,Scabies
+AA00970158,Madagascar,21,f,4,torso; back,0.0,Scabies
+AA00970159,Madagascar,1,m,5,torso; face; arm,0.0,Eczema
+AA00970160,Madagascar,17,m,4,pelvic; back,0.0,Scabies
+AA00970161,Madagascar,22,f,5,torso,0.0,Scabies
+AA00970162,Madagascar,26,m,5,,0.0,Scabies
+AA00970163,Madagascar,45,f,3,,0.0,Fungal
+AA00970164,Madagascar,2,m,4,hair; face,0.0,Eczema
+AA00970167,Madagascar,2,m,5,leg,0.0,Eczema
+AA00970169,Madagascar,60,f,4,face,0.0,Fungal
+AA00970170,Madagascar,65,f,4,arm,0.0,Eczema
+AA00970171,Madagascar,13,f,4,hand; arm,0.0,Eczema
+AA00970173,Madagascar,51,m,5,hand,0.0,Scabies
+AA00970174,Madagascar,7,m,4,torso; face; arm; back,0.0,Eczema
+AA00970175,Madagascar,37,f,5,torso; back,0.0,Fungal
+AA00970176,Madagascar,60,m,4,back,0.0,Fungal
+AA00970177,Madagascar,28,f,5,torso; face,0.0,Fungal
+AA00970178,Madagascar,61,f,5,leg,0.0,Eczema
+AA00970179,Madagascar,34,m,5,torso; back,0.0,Fungal
+AA00970180,Madagascar,28,m,5,face,0.0,Eczema
+AA00970181,Madagascar,29,m,4,,0.0,Fungal
+AA00970183,Madagascar,44,f,5,,0.0,Fungal
+AA00970184,Madagascar,1,m,3,torso; face; arm,0.0,Eczema
+AA00970185,Madagascar,53,f,4,torso,0.0,Fungal
+AA00970186,Madagascar,41,m,4,arm,0.0,Scabies
+AA00970187,Madagascar,39,f,4,torso; back,0.0,Fungal
+AA00970188,Madagascar,36,f,3,torso,0.0,Scabies
+AA00970189,Madagascar,12,m,5,pelvic,0.0,Scabies
+AA00970190,Madagascar,9,f,5,hand,0.0,Scabies
+AA00970191,Madagascar,2,m,4,torso; arm; back,0.0,Scabies
+AA00970193,Madagascar,35,f,4,torso,0.0,Fungal
+AA00970194,Madagascar,40,m,5,arm,0.0,Fungal
+AA00970195,Madagascar,5,m,5,back; leg,0.0,Scabies
+AA00970196,Madagascar,43,f,5,leg,0.0,Eczema
+AA00970197,Madagascar,56,f,4,,1.0,Eczema
+AA00970198,Guinea,46,m,6,hand,0.0,Fungal
+AA00970199,Guinea,43,m,6,hand,0.0,Fungal
+AA00970200,Guinea,43,m,6,hand,0.0,Fungal
+AA00970201,Guinea,52,m,6,hand,0.0,Fungal
+AA00970202,Guinea,38,m,6,foot,0.0,Fungal
+AA00970203,Guinea,33,m,6,foot,0.0,Eczema
+AA00970204,Guinea,24,f,6,foot,0.0,Scabies
+AA00970205,Guinea,4,m,6,torso,0.0,Scabies
+AA00970206,Guinea,6,f,6,hand,0.0,Scabies
+AA00970207,Guinea,5,m,6,pelvic,0.0,Scabies
+AA00970208,Guinea,36,m,6,hand,0.0,Fungal
+AA00970209,Guinea,21,f,6,arm,0.0,Eczema
+AA00970210,Guinea,34,m,6,back,0.0,Others
+AA00970212,Guinea,1,m,6,hand,0.0,Scabies
+AA00970213,Guinea,1,m,6,torso; back,0.0,Scabies
+AA00970214,Guinea,35,m,6,leg,0.0,Scabies
+AA00970215,Guinea,1,m,6,face,0.0,Scabies
+AA00970216,Guinea,45,f,6,torso; leg,0.0,Fungal
+AA00970217,Guinea,41,f,6,torso,0.0,Fungal
+AA00970218,Madagascar,32,f,4,torso,0.0,Fungal
+AA00970219,Madagascar,11,f,5,face; arm; foot; hand; leg,1.0,Eczema
+AA00970220,Madagascar,1,f,4,face; leg,0.0,Eczema
+AA00970221,Madagascar,2,f,5,leg,0.0,Eczema
+AA00970222,Guinea,42,f,6,back,0.0,Fungal
+AA00970223,Guinea,9,f,6,hair,0.0,Fungal
+AA00970224,Guinea,49,f,6,hand,0.0,Fungal
+AA00970226,Guinea,1,f,6,arm; back,0.0,Eczema
+AA00970227,Guinea,36,f,6,face,0.0,Eczema
+AA00970228,Guinea,31,m,6,,0.0,Fungal
+AA00970229,Guinea,65,f,6,,0.0,Fungal
+AA00970230,Guinea,58,m,6,foot,0.0,Fungal
+AA00970231,Guinea,27,m,6,back,0.0,Fungal
+AA00970232,Guinea,36,m,6,foot,0.0,Eczema
+AA00970233,Guinea,49,f,6,hand,0.0,Eczema
+AA00970234,Guinea,5,m,6,torso; face,0.0,Others
+AA00970235,Guinea,12,f,6,torso,0.0,Others
+AA00970236,Guinea,32,f,6,back,0.0,Others
+AA00970237,Guinea,51,m,6,arm,0.0,Others
+AA00970238,Guinea,14,m,6,back,0.0,Others
+AA00970239,Guinea,31,f,6,back,0.0,Fungal
+AA00970240,Guinea,19,f,6,leg,0.0,Scabies
+AA00970241,Guinea,37,m,6,,0.0,Scabies
+AA00970242,Guinea,45,m,6,foot; hand,0.0,Fungal
+AA00970243,Guinea,38,m,6,hand,0.0,Fungal
+AA00970244,Guinea,30,f,6,hand,0.0,Scabies
+AA00970245,Guinea,28,m,6,,0.0,Scabies
+AA00970246,Guinea,13,m,6,pelvic; back,0.0,Scabies
+AA00970247,Guinea,21,f,6,arm,0.0,Others
+AA00970248,Guinea,27,m,6,torso,0.0,Scabies
+AA00970249,Guinea,33,m,6,foot,0.0,Eczema
+AA00970250,Guinea,21,m,6,,0.0,Scabies
+AA00970251,Guinea,29,m,6,torso,0.0,Fungal
+AA00970252,Guinea,36,m,6,back,0.0,Fungal
+AA00970253,Guinea,22,f,6,arm,0.0,Fungal
+AA00970255,Guinea,37,f,6,foot,0.0,Eczema
+AA00970256,Guinea,23,f,6,arm,0.0,Fungal
+AA00970257,Guinea,39,m,6,back,0.0,Fungal
+AA00970258,Guinea,23,m,6,,0.0,Scabies
+AA00970259,Guinea,25,f,6,leg,0.0,Eczema
+AA00970260,Guinea,11,m,3,arm,0.0,Eczema
+AA00970261,Guinea,33,m,6,torso; arm; back,0.0,Fungal
+AA00970262,Guinea,25,f,6,arm,0.0,Others
+AA00970263,Guinea,5,m,6,face,0.0,Others
+AA00970264,Guinea,29,f,6,foot,0.0,Others
+AA00970266,Guinea,27,f,6,leg,0.0,Others
+AA00970267,Guinea,5,m,6,hand,0.0,Eczema
+AA00970268,Guinea,48,m,6,foot,1.0,Fungal
+AA00970269,Guinea,28,f,6,foot,0.0,Eczema
+AA00970270,Guinea,31,f,6,foot,0.0,Fungal
+AA00970271,Guinea,36,f,6,leg,0.0,Eczema
+AA00970273,Guinea,26,f,6,arm,0.0,Eczema
+AA00970274,Guinea,1,m,6,,0.0,Eczema
+AA00970276,Guinea,39,f,6,leg,0.0,Fungal
+AA00970277,Guinea,30,f,6,back,0.0,Eczema
+AA00970278,Guinea,12,m,6,pelvic; leg; back,0.0,Scabies
+AA00970279,Guinea,8,m,6,pelvic,0.0,Scabies
+AA00970280,Guinea,9,m,6,torso; back,0.0,Scabies
+AA00970281,Guinea,29,f,6,back,0.0,Others
+AA00970283,Guinea,29,f,6,torso,0.0,Others
+AA00970285,Guinea,40,f,6,leg,0.0,Others
+AA00970286,Guinea,12,f,6,arm,0.0,Fungal
+AA00970287,Guinea,19,m,6,leg,0.0,Fungal
+AA00970288,Guinea,42,m,6,foot,0.0,Eczema
+AA00970289,Guinea,7,m,6,pelvic,0.0,Fungal
+AA00970290,Guinea,0,f,6,back,0.0,Fungal
+AA00970291,Guinea,43,m,6,foot,0.0,Eczema
+AA00970293,Madagascar,1,f,4,torso; foot; arm; leg,0.0,Scabies
+AA00970295,Madagascar,3,f,3,torso; face; arm,0.0,Scabies
+AA00970296,Madagascar,23,m,3,pelvic; leg,0.0,Scabies
+AA00970298,Madagascar,31,m,5,foot; pelvic,0.0,Scabies
+AA00970299,Madagascar,28,f,3,torso; pelvic; leg,0.0,Scabies
+AA00970300,Madagascar,26,f,3,face; arm; leg,1.0,Eczema
+AA00970301,Guinea,11,m,3,hair,0.0,Fungal
+AA00970302,Guinea,12,m,6,hair,0.0,Fungal
+AA00970303,Guinea,10,m,3,hair,0.0,Fungal
+AA00970304,Guinea,45,m,3,foot,0.0,Fungal
+AA00970305,Guinea,45,m,6,foot,0.0,Fungal
+AA00970306,Guinea,36,m,6,foot,1.0,Fungal
+AA00970307,Guinea,39,m,6,foot,1.0,Fungal
+AA00970308,Guinea,48,f,6,pelvic,0.0,Eczema
+AA00970309,Guinea,19,f,6,foot,1.0,Fungal
+AA00970311,Guinea,9,m,6,hair,0.0,Fungal
+AA00970312,Guinea,20,f,6,hair,0.0,Fungal
+AA00970313,Guinea,38,f,6,hand,0.0,Eczema
+AA00970314,Guinea,44,m,6,foot,0.0,Fungal
+AA00970315,Guinea,11,m,6,leg,0.0,Scabies
+AA00970316,Guinea,30,f,6,arm,0.0,Others
+AA00970397,Madagascar,4,f,3,torso; arm; leg,1.0,Eczema
+AA00970398,Madagascar,30,f,4,hand,0.0,Scabies
+AA00970399,Madagascar,24,m,5,torso; hand; pelvic; back,0.0,Scabies
+AA00970400,Madagascar,9,m,5,torso; pelvic; arm; leg,1.0,Scabies
+AA00970401,Madagascar,1,f,4,back; arm; foot; torso; leg,0.0,Scabies
+AA00970402,Madagascar,38,f,5,torso,0.0,Scabies
+AA00970403,Madagascar,34,m,3,torso,0.0,Fungal
+AA00970404,Madagascar,31,f,4,torso,0.0,Fungal
+AA00970405,Madagascar,1,f,3,torso; arm; leg,0.0,Scabies
+AA00970406,Madagascar,30,m,5,hand,0.0,Scabies
+AA00970407,Madagascar,46,m,5,face,0.0,Fungal
+AA00970408,Madagascar,19,f,4,arm,0.0,Fungal
+AA00970434,Madagascar,25,m,5,pelvic; leg,0.0,Scabies
+AA00970435,Madagascar,21,m,4,torso; hand; arm; back,0.0,Scabies
+AA00970436,Madagascar,17,m,4,pelvic; leg,0.0,Scabies
+AA00970437,Madagascar,23,m,3,torso; hand; arm; back,0.0,Scabies
+AA00970505,Guinea,7,f,6,arm,0.0,Scabies
+AA00970506,Guinea,9,m,6,hand; arm,0.0,Scabies
+AA00970507,Guinea,34,f,6,back,0.0,Fungal
+AA00970508,Guinea,31,m,6,leg,0.0,Others
+AA00970510,Guinea,1,f,6,face,0.0,Eczema
+AA00970511,Madagascar,54,m,4,torso; back,0.0,Scabies
+AA00970512,Madagascar,31,f,5,torso,0.0,Eczema
+AA00970513,Madagascar,30,m,5,face,0.0,Eczema
+AA00970514,Madagascar,1,f,4,arm; leg,0.0,Eczema
+AA00970515,Madagascar,7,f,4,hand,0.0,Eczema
+AA00970516,Madagascar,25,m,4,hair,0.0,Eczema
+AA00970517,Madagascar,32,f,5,torso; arm; leg,0.0,Eczema
+AA00970518,Madagascar,30,f,4,arm; back,0.0,Eczema
+AA00970519,Madagascar,21,f,5,hand,0.0,Eczema
+AA00970520,Madagascar,29,m,5,hand,0.0,Fungal
+AA00970521,Madagascar,5,m,5,face,0.0,Eczema
+AA00970523,Madagascar,2,f,5,leg,1.0,Eczema
+AA00970524,Madagascar,24,m,5,torso,0.0,Eczema
+AA00970525,Madagascar,23,m,3,foot; hand; arm; leg,0.0,Scabies
+AA00970526,Madagascar,21,m,3,torso; arm,0.0,Scabies
+AA00970527,Madagascar,43,m,4,leg,0.0,Eczema
+AA00970528,Madagascar,26,m,3,torso; face; arm,0.0,Eczema
+AA00970529,Madagascar,15,f,3,face; arm; leg,0.0,Eczema
+AA00970530,Madagascar,30,m,5,leg,0.0,Eczema
+AA00970531,Madagascar,48,f,4,face; leg,0.0,Eczema
+AA00970532,Madagascar,1,f,4,,0.0,Eczema
+AA00970533,Madagascar,38,f,4,torso; hand,0.0,Eczema
+AA00970534,Madagascar,3,m,5,hair; torso; face,1.0,Eczema
+AA00970535,Madagascar,11,m,4,torso; foot; hand,1.0,Scabies
+AA00970536,Madagascar,20,m,5,torso; back,0.0,Scabies
+AA00970537,Madagascar,11,m,5,hair,0.0,Fungal
+AA00970538,Madagascar,2,m,5,face; leg,0.0,Eczema
+AA00970539,Madagascar,40,m,4,face,0.0,Fungal
+AA00970540,Madagascar,6,f,4,face; arm; leg,0.0,Eczema
+AA00970541,Madagascar,12,f,4,arm; leg,0.0,Eczema
+AA00970542,Madagascar,26,f,4,arm; leg,0.0,Eczema
+AA00970543,Madagascar,41,m,4,,0.0,Eczema
+AA00970544,Madagascar,35,m,4,torso,0.0,Fungal
+AA00970545,Madagascar,31,m,4,leg,0.0,Fungal
+AA00970546,Madagascar,9,f,3,,0.0,Fungal
+AA00970547,Madagascar,24,m,4,torso; arm; back,0.0,Fungal
+AA00970548,Madagascar,46,m,5,foot,0.0,Fungal
+AA00970549,Madagascar,5,m,4,pelvic; foot; hand; torso; leg,0.0,Scabies
+AA00970550,Madagascar,59,m,6,,0.0,Fungal
+AA00970551,Madagascar,40,m,3,hand,0.0,Fungal
+AA00970552,Madagascar,4,m,4,torso; back,0.0,Others
+AA00970553,Madagascar,54,m,4,hand,0.0,Fungal
+AA00970554,Madagascar,56,m,4,hand,0.0,Fungal
+AA00970555,Madagascar,30,m,4,arm,0.0,Eczema
+AA00970556,Madagascar,34,m,3,pelvic,0.0,Fungal
+AA00970557,Madagascar,12,m,3,back,0.0,Eczema
+AA00970558,Madagascar,7,f,3,hand,0.0,Eczema
+AA00970559,Madagascar,8,m,5,face,0.0,Fungal
+AA00970560,Madagascar,27,m,4,torso; hand; arm; leg,1.0,Scabies
+AA00970561,Madagascar,37,f,4,arm,0.0,Eczema
+AA00970562,Madagascar,20,f,4,face,0.0,Eczema
+AA00970563,Madagascar,65,m,5,hand; face; arm; leg,1.0,Eczema
+AA00970564,Madagascar,25,m,4,hair,0.0,Fungal
+AA00970565,Madagascar,34,m,5,face,0.0,Eczema
+AA00970566,Madagascar,23,f,5,arm; leg,0.0,Eczema
+AA00970567,Madagascar,3,f,4,foot; hand,0.0,Eczema
+AA00970568,Madagascar,72,m,4,torso; arm; leg,0.0,Scabies
+AA00970570,Madagascar,8,m,4,,0.0,Eczema
+AA00970571,Madagascar,5,m,4,,0.0,Eczema
+AA00970574,Madagascar,5,f,4,,0.0,Eczema
+AA00970576,Madagascar,3,m,4,,0.0,Eczema
+AA00970577,Madagascar,3,m,4,,0.0,Eczema
+AA00970579,Madagascar,3,m,4,,0.0,Eczema
+AA00970580,Madagascar,3,f,4,,0.0,Eczema
+AA00970581,Madagascar,4,f,3,,0.0,Eczema
+AA00970583,Madagascar,15,f,3,,0.0,Eczema
+AA00970585,Madagascar,61,m,3,,0.0,Eczema
+AA00970590,Madagascar,71,m,3,,0.0,Eczema
+AA00970591,Madagascar,47,f,3,,0.0,Eczema
+AA00970592,Madagascar,13,f,3,,0.0,Eczema
+AA00970595,Madagascar,41,f,4,torso,0.0,Fungal
+AA00970596,Madagascar,1,m,4,face,1.0,Eczema
+AA00970598,Madagascar,46,f,5,torso,0.0,Fungal
+AA00970597,Madagascar,11,m,4,,0.0,Eczema
+AA00970599,Madagascar,4,m,4,torso; leg,0.0,Eczema
+AA00970600,Madagascar,21,m,4,,0.0,Fungal
+AA00970602,Madagascar,31,m,6,foot,0.0,Fungal
+AA00970601,Madagascar,32,m,4,arm,1.0,Eczema
+AA00970603,Madagascar,13,m,3,torso; arm; back,0.0,Eczema
+AA00970604,Madagascar,18,f,4,torso,0.0,Fungal
+AA00970605,Madagascar,37,m,3,arm,0.0,Eczema
+AA00970607,Madagascar,31,m,6,foot,0.0,Fungal
+AA00970606,Madagascar,13,m,3,pelvic; leg,0.0,Eczema
+AA00970608,Madagascar,22,f,3,torso; arm,1.0,Eczema
+AA00970609,Madagascar,25,m,4,face,0.0,Fungal
+AA00970610,Madagascar,36,f,4,,0.0,Fungal
+AA00970612,Madagascar,21,f,3,face,0.0,Eczema
+AA00970611,Madagascar,1,f,3,torso; face; back,0.0,Eczema
+AA00970613,Madagascar,46,f,3,,0.0,Fungal
+AA00970614,Madagascar,9,f,3,face,1.0,Eczema
+AA00970615,Madagascar,38,f,4,leg,0.0,Fungal
+AA00970618,Madagascar,25,f,4,pelvic,0.0,Fungal
+AA00970617,Madagascar,3,f,3,face,0.0,Eczema
+AA00970619,Madagascar,23,m,3,torso; arm,0.0,Scabies
+AA00970621,Madagascar,46,f,5,torso; arm; back,0.0,Eczema
+AA00970622,Madagascar,38,f,5,pelvic; leg,0.0,Eczema
+AA00970626,Madagascar,5,m,3,,0.0,Eczema
+AA00970627,Madagascar,12,m,3,,0.0,Eczema
+AA00970628,Madagascar,38,m,3,,0.0,Eczema
+AA00970629,Tanzania,2,f,5,hair,1.0,Others
+AA00970631,Tanzania,1,f,5,face,0.0,Eczema
+AA00970632,Tanzania,3,m,4,face,1.0,Eczema
+AA00970633,Tanzania,1,m,4,face,1.0,Eczema
+AA00970634,Madagascar,55,f,5,,0.0,Eczema
+AA00970635,Madagascar,31,m,3,torso; arm; back,0.0,Eczema
+AA00970636,Madagascar,45,m,5,leg,0.0,Eczema
+AA00970637,Madagascar,8,m,3,face,0.0,Fungal
+AA00970638,Madagascar,29,m,3,torso; arm; back,0.0,Fungal
+AA00970639,Madagascar,29,m,3,torso; hand; back,0.0,Scabies
+AA00970640,Madagascar,6,m,5,hair,0.0,Fungal
+AA00970641,Madagascar,27,m,4,,0.0,Scabies
+AA00970645,Madagascar,30,m,4,hand,0.0,Scabies
+AA00970646,Madagascar,33,f,3,torso; back,0.0,Scabies
+AA00970647,Madagascar,21,f,3,hand,0.0,Scabies
+AA00970648,Madagascar,21,m,5,torso; back,0.0,Scabies
+AA00970649,Madagascar,31,m,5,pelvic,0.0,Scabies
+AA00970650,Madagascar,26,f,4,pelvic,0.0,Scabies
+AA00970651,Tanzania,4,m,4,pelvic,1.0,Others
+AA00970655,Tanzania,10,f,5,back; pelvic; arm; torso; leg,0.0,Eczema
+AA00970656,Tanzania,3,f,5,hand; arm,0.0,Eczema
+AA00970657,Tanzania,0,f,5,leg,1.0,Others
+AA00970658,Tanzania,0,f,4,hair; face; leg,0.0,Eczema
+AA00970661,Tanzania,15,f,5,back,1.0,Eczema
+AA00970662,Madagascar,29,f,5,torso; hand; face; arm,0.0,Eczema
+AA00970663,Madagascar,55,f,5,foot,0.0,Eczema
+AA00970664,Madagascar,2,m,4,face; arm; leg,0.0,Eczema
+AA00970665,Madagascar,38,m,5,hand; arm; leg,0.0,Eczema
+AA00970666,Madagascar,1,m,4,face,0.0,Eczema
+AA00970667,Madagascar,1,m,3,face; arm; leg,0.0,Eczema
+AA00970668,Madagascar,31,f,5,torso; arm; leg,0.0,Eczema
+AA00970669,Madagascar,24,f,4,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00970670,Madagascar,54,f,4,leg,0.0,Eczema
+AA00970671,Madagascar,12,f,4,arm; leg,0.0,Eczema
+AA00970672,Madagascar,8,m,4,arm; leg,0.0,Eczema
+AA00970673,Madagascar,29,f,5,pelvic; arm; leg,0.0,Eczema
+AA00970674,Madagascar,4,m,5,face,1.0,Eczema
+AA00970678,Tanzania,0,m,5,face,0.0,Eczema
+AA00970680,Guinea,7,f,6,arm,0.0,Scabies
+AA00970681,Guinea,4,m,6,hair,0.0,Fungal
+AA00970682,Guinea,8,m,6,hair,0.0,Fungal
+AA00970683,Guinea,9,m,6,hair,0.0,Fungal
+AA00970684,Guinea,6,m,6,hair,0.0,Fungal
+AA00970686,Guinea,36,m,6,hand,0.0,Eczema
+AA00970687,Guinea,32,f,6,hand,0.0,Fungal
+AA00970688,Guinea,5,f,6,face,1.0,Others
+AA00970689,Guinea,7,m,6,face,1.0,Others
+AA00970690,Guinea,31,m,6,foot,0.0,Others
+AA00970694,Tanzania,3,m,5,torso; face; back,0.0,Eczema
+AA00970696,Tanzania,1,m,5,pelvic; face; arm; leg,0.0,Eczema
+AA00970697,Madagascar,38,m,5,face,0.0,Eczema
+AA00970708,Guinea,7,m,6,hair,0.0,Fungal
+AA00970709,Guinea,9,m,6,,0.0,Fungal
+AA00970710,Guinea,8,f,6,hair,0.0,Fungal
+AA00970711,Guinea,7,m,6,hair,0.0,Fungal
+AA00970712,Guinea,9,f,6,hand; arm,0.0,Scabies
+AA00970713,Guinea,7,m,6,pelvic,0.0,Scabies
+AA00970714,Guinea,14,f,6,arm,0.0,Scabies
+AA00970715,Guinea,33,m,6,foot,0.0,Fungal
+AA00970716,Guinea,32,m,6,foot,0.0,Fungal
+AA00970718,Tanzania,2,m,5,,0.0,Eczema
+AA00970720,Tanzania,2,m,5,back; face; arm; pelvic; foot; hand; torso; leg,0.0,Eczema
+AA00970721,Tanzania,1,m,5,back; face; arm; torso; leg,0.0,Eczema
+AA00970722,Tanzania,0,m,5,torso; hair; face,1.0,Eczema
+AA00970723,Tanzania,3,m,5,torso; face; arm; back,0.0,Eczema
+AA00970724,Madagascar,6,m,5,hair,0.0,Fungal
+AA00970725,Madagascar,4,m,5,hair,0.0,Fungal
+AA00970726,Madagascar,21,m,4,torso; arm,0.0,Scabies
+AA00970727,Madagascar,22,m,4,torso; arm; back,0.0,Scabies
+AA00970728,Madagascar,19,m,4,pelvic; leg,0.0,Scabies
+AA00970729,Madagascar,18,m,5,hand,0.0,Scabies
+AA00970730,Madagascar,59,f,3,,0.0,Eczema
+AA00970731,Madagascar,65,f,3,hand; arm,0.0,Eczema
+AA00970732,Madagascar,47,m,3,arm,0.0,Eczema
+AA00970733,Madagascar,53,f,4,foot,0.0,Eczema
+AA00970734,Madagascar,1,m,4,back; arm; hand; torso; leg,0.0,Scabies
+AA00970735,Madagascar,28,f,3,torso; arm; back,0.0,Scabies
+AA00970736,Madagascar,1,m,3,torso; arm; back,0.0,Scabies
+AA00970737,Madagascar,20,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00970738,Madagascar,24,f,5,hand; pelvic; arm,0.0,Scabies
+AA00970740,Madagascar,36,f,3,torso,0.0,Fungal
+AA00970741,Madagascar,55,f,3,foot,0.0,Eczema
+AA00970742,Madagascar,50,f,5,back; arm; leg,0.0,Scabies
+AA00970743,Madagascar,19,m,3,torso,0.0,Others
+AA00970744,Madagascar,11,f,3,back,1.0,Scabies
+AA00970745,Madagascar,31,f,4,leg,0.0,Eczema
+AA00970746,Madagascar,30,m,4,pelvic; leg,0.0,Fungal
+AA00970747,Madagascar,38,m,3,pelvic; arm; leg,0.0,Scabies
+AA00970748,Madagascar,17,m,5,arm,0.0,Eczema
+AA00970749,Madagascar,0,m,3,face,0.0,Eczema
+AA00970750,Madagascar,6,m,4,torso; leg,0.0,Eczema
+AA00970752,Madagascar,19,m,5,,0.0,Fungal
+AA00970751,Madagascar,31,m,4,foot; leg,0.0,Eczema
+AA00970753,Madagascar,13,f,3,torso,0.0,Fungal
+AA00970754,Madagascar,7,m,3,hair,0.0,Fungal
+AA00970756,Madagascar,12,m,5,face,0.0,Fungal
+AA00970755,Madagascar,46,f,4,pelvic; leg,0.0,Scabies
+AA00970758,Madagascar,7,m,4,torso,0.0,Scabies
+AA00970757,Madagascar,27,f,3,arm,0.0,Eczema
+AA00970759,Madagascar,35,m,4,pelvic; leg,0.0,Scabies
+AA00970760,Madagascar,3,m,3,leg,0.0,Eczema
+AA00970761,Madagascar,6,f,3,face,1.0,Others
+AA00970762,Madagascar,11,m,5,hair,0.0,Fungal
+AA00970764,Madagascar,28,m,3,torso; pelvic; leg,0.0,Fungal
+AA00970763,Madagascar,24,f,4,face,1.0,Others
+AA00970765,Madagascar,5,m,5,hair,1.0,Others
+AA00970766,Madagascar,32,m,3,foot,0.0,Eczema
+AA00970767,Madagascar,4,m,3,face,1.0,Others
+AA00970768,Madagascar,4,m,4,,1.0,Eczema
+AA00970769,Madagascar,12,m,3,back; face; arm; torso; leg,0.0,Eczema
+AA00970770,Madagascar,33,f,4,,0.0,Fungal
+AA00970771,Madagascar,3,f,4,face,1.0,Others
+AA00970774,Madagascar,45,m,3,,0.0,Fungal
+AA00970775,Madagascar,59,m,3,,0.0,Fungal
+AA00970776,Madagascar,42,m,3,,0.0,Fungal
+AA00970777,Madagascar,35,m,3,,0.0,Fungal
+AA00970779,Madagascar,30,f,4,pelvic,0.0,Fungal
+AA00970780,Madagascar,4,m,3,,1.0,Others
+AA00970778,Madagascar,6,f,3,,1.0,Eczema
+AA00970781,Madagascar,33,f,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00970782,Madagascar,1,m,3,pelvic; arm; foot; hand; torso,1.0,Scabies
+AA00970783,Madagascar,1,m,3,back; hair; face; arm; pelvic; foot; torso; leg,0.0,Scabies
+AA00970784,Madagascar,10,m,4,foot; arm,0.0,Scabies
+AA00970785,Madagascar,11,m,5,foot; arm,1.0,Eczema
+AA00970786,Madagascar,7,m,3,hand; pelvic; arm; leg,1.0,Scabies
+AA00970787,Madagascar,1,m,3,back; arm; hand; torso; leg,0.0,Scabies
+AA00970788,Madagascar,6,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00970789,Madagascar,30,f,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00970790,Madagascar,25,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00970791,Madagascar,4,m,5,hand; arm,0.0,Scabies
+AA00970792,Madagascar,6,m,3,arm; leg,0.0,Eczema
+AA00970793,Tanzania,1,m,5,back; face; arm; foot; hand; torso; leg,0.0,Eczema
+AA00970795,Tanzania,1,m,5,face,0.0,Eczema
+AA00970796,Tanzania,9,m,5,back; face; arm; pelvic; torso; leg,1.0,Eczema
+AA00970797,Guinea,31,m,6,,1.0,Others
+AA00970798,Guinea,36,m,6,hand,0.0,Others
+AA00970799,Guinea,27,m,6,torso,0.0,Others
+AA00970800,Madagascar,7,m,4,face,0.0,Fungal
+AA00970801,Madagascar,0,m,4,back; pelvic; arm; foot; hand; torso; leg,0.0,Scabies
+AA00970802,Madagascar,76,m,4,torso; arm; leg,0.0,Scabies
+AA00970803,Madagascar,40,m,4,pelvic,0.0,Fungal
+AA00970804,Madagascar,38,m,4,,0.0,Fungal
+AA00970805,Madagascar,37,f,4,torso; arm; leg,0.0,Scabies
+AA00970806,Madagascar,20,f,4,torso; arm; back,0.0,Fungal
+AA00970807,Madagascar,17,f,4,back; arm; leg,0.0,Eczema
+AA00970808,Madagascar,8,f,3,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00970809,Madagascar,6,m,4,hand,0.0,Scabies
+AA00970810,Madagascar,17,m,3,leg,0.0,Fungal
+AA00970818,Guinea,5,m,6,torso,0.0,Scabies
+AA00970819,Guinea,3,m,6,back,0.0,Scabies
+AA00970820,Guinea,30,m,6,foot,0.0,Others
+AA00970821,Guinea,37,m,6,hair,0.0,Others
+AA00970822,Madagascar,27,m,4,foot,0.0,Eczema
+AA00970823,Madagascar,25,m,4,torso,0.0,Fungal
+AA00970824,Madagascar,22,m,3,back; pelvic; arm; hand; leg,0.0,Fungal
+AA00970825,Madagascar,41,m,3,,0.0,Fungal
+AA00970826,Madagascar,38,f,3,leg,0.0,Eczema
+AA00970827,Madagascar,24,m,5,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00970828,Tanzania,1,m,3,torso; face; leg,0.0,Eczema
+AA00970829,Tanzania,15,m,5,arm; leg,0.0,Eczema
+AA00970831,Madagascar,5,m,4,back; hair; face; arm; pelvic; foot; hand; torso; leg,1.0,Scabies
+AA00970832,Madagascar,33,m,5,hand,0.0,Scabies
+AA00970833,Madagascar,23,m,5,torso; back; arm; leg,0.0,Eczema
+AA00970835,Madagascar,21,m,4,hand; pelvic,0.0,Scabies
+AA00970837,Madagascar,22,f,5,leg,0.0,Fungal
+AA00970838,Madagascar,7,f,4,face,1.0,Others
+AA00970839,Madagascar,41,f,4,torso; pelvic; leg,0.0,Fungal
+AA00970840,Madagascar,34,f,5,torso; pelvic; arm; leg,0.0,Fungal
+AA00970841,Madagascar,26,m,3,arm; leg,0.0,Fungal
+AA00970843,Madagascar,0,f,4,,1.0,Others
+AA00970844,Madagascar,14,f,4,,1.0,Others
+AA00970845,Madagascar,27,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00970846,Madagascar,27,f,4,pelvic; leg,0.0,Fungal
+AA00970847,Madagascar,27,m,4,torso; face; back,0.0,Eczema
+AA00970848,Madagascar,27,f,5,torso; hand; pelvic,0.0,Scabies
+AA00970849,Madagascar,19,m,4,torso; back,0.0,Fungal
+AA00970850,Madagascar,1,f,4,torso; pelvic,0.0,Scabies
+AA00970851,Madagascar,0,m,4,torso; face; arm,0.0,Eczema
+AA00970852,Madagascar,4,m,4,face; arm; leg,0.0,Eczema
+AA00970853,Madagascar,0,m,5,foot; hand; leg,0.0,Eczema
+AA00970854,Madagascar,34,m,5,torso; arm,0.0,Fungal
+AA00970855,Madagascar,11,f,5,back,0.0,Fungal
+AA00970856,Madagascar,3,f,5,hair; face; arm,1.0,Eczema
+AA00970857,Madagascar,25,f,5,arm; leg,0.0,Fungal
+AA00970858,Madagascar,42,m,5,torso,0.0,Fungal
+AA00970859,Madagascar,47,m,5,arm; back,0.0,Fungal
+AA00970860,Madagascar,34,m,5,torso; arm; back,0.0,Fungal
+AA00970861,Madagascar,23,f,5,pelvic,0.0,Fungal
+AA00970862,Madagascar,33,m,5,torso; pelvic,0.0,Fungal
+AA00970863,Madagascar,43,m,5,torso; hand; arm; back,0.0,Scabies
+AA00970864,Madagascar,7,m,4,face,1.0,Eczema
+AA00970865,Madagascar,0,f,3,face; leg,0.0,Eczema
+AA00970866,Madagascar,11,f,3,arm,0.0,Eczema
+AA00970867,Madagascar,41,m,4,face,0.0,Eczema
+AA00970868,Madagascar,32,f,3,,0.0,Eczema
+AA00970869,Madagascar,22,f,3,,0.0,Eczema
+AA00970870,Madagascar,16,m,3,,0.0,Eczema
+AA00970871,Madagascar,30,f,3,,0.0,Eczema
+AA00970872,Madagascar,41,m,4,,0.0,Others
+AA00970873,Madagascar,36,m,5,,0.0,Fungal
+AA00970874,Madagascar,29,m,5,,0.0,Scabies
+AA00970875,Madagascar,15,m,5,pelvic,0.0,Scabies
+AA00970877,Madagascar,30,f,3,hand,0.0,Scabies
+AA00970878,Madagascar,15,m,3,pelvic,0.0,Scabies
+AA00970879,Guinea,5,m,6,hand,0.0,Scabies
+AA00970880,Guinea,3,m,6,foot,0.0,Scabies
+AA00970881,Guinea,28,f,6,arm,0.0,Others
+AA00970882,Guinea,35,m,6,arm,0.0,Others
+AA00970883,Guinea,30,m,6,leg,0.0,Others
+AA00970884,Guinea,43,f,6,arm,0.0,Others
+AA00970885,Guinea,39,m,6,,0.0,Others
+AA00970887,Guinea,8,f,6,arm,0.0,Scabies
+AA00970888,Guinea,10,f,6,leg,0.0,Scabies
+AA00970889,Guinea,11,f,6,torso; pelvic,0.0,Scabies
+AA00970890,Guinea,5,m,6,hair,0.0,Fungal
+AA00970891,Guinea,7,m,6,back,0.0,Scabies
+AA00970892,Guinea,8,m,6,arm,0.0,Scabies
+AA00970893,Guinea,6,m,6,hair,0.0,Fungal
+AA00970894,Guinea,12,m,6,hair,0.0,Fungal
+AA00970896,Guinea,13,m,6,pelvic,0.0,Scabies
+AA00970897,Guinea,13,f,6,pelvic; arm,0.0,Scabies
+AA00970898,Guinea,37,f,6,back,0.0,Scabies
+AA00970899,Guinea,38,f,6,torso,0.0,Fungal
+AA00970900,Guinea,7,m,6,hair,0.0,Fungal
+AA00970901,Guinea,6,m,6,hair,0.0,Fungal
+AA00970902,Guinea,8,m,6,hair,0.0,Fungal
+AA00970903,Guinea,8,m,6,hair,0.0,Fungal
+AA00970904,Guinea,5,m,6,hair,0.0,Fungal
+AA00970905,Guinea,6,m,6,hair,0.0,Fungal
+AA00970907,Guinea,17,m,6,leg,1.0,Others
+AA00970908,Guinea,10,m,6,leg,1.0,Others
+AA00970909,Guinea,13,f,6,leg,1.0,Others
+AA00970910,Guinea,10,m,6,pelvic; leg,1.0,Others
+AA00970914,Guinea,40,f,6,pelvic,0.0,Others
+AA00970915,Guinea,42,f,6,pelvic,0.0,Fungal
+AA00970916,Guinea,5,m,6,hair,0.0,Fungal
+AA00970917,Guinea,5,m,6,hair,0.0,Fungal
+AA00970918,Guinea,7,m,6,hair,0.0,Fungal
+AA00970919,Guinea,6,m,6,hair,0.0,Fungal
+AA00970920,Guinea,6,f,6,hair,0.0,Fungal
+AA00970921,Guinea,28,m,6,foot,0.0,Eczema
+AA00970922,Guinea,35,m,6,foot,0.0,Eczema
+AA00970923,Guinea,36,m,6,foot,0.0,Eczema
+AA00970924,Guinea,13,f,6,hair,0.0,Fungal
+AA00970925,Guinea,6,f,6,hair,0.0,Fungal
+AA00970926,Guinea,5,m,6,hair,0.0,Fungal
+AA00970928,Guinea,9,m,6,arm,0.0,Fungal
+AA00970929,Guinea,6,m,6,hair,0.0,Fungal
+AA00970930,Guinea,34,f,6,leg,0.0,Fungal
+AA00970931,Guinea,36,f,6,leg,0.0,Fungal
+AA00970932,Guinea,30,m,6,foot,0.0,Eczema
+AA00970933,Guinea,46,f,6,torso,0.0,Fungal
+AA00970934,Guinea,1,m,6,torso; back,0.0,Scabies
+AA00970935,Guinea,1,m,6,foot; hand,0.0,Scabies
+AA00970936,Guinea,35,f,6,arm; leg,0.0,Scabies
+AA00970937,Guinea,40,m,6,arm,0.0,Fungal
+AA00970938,Guinea,45,f,6,hand,0.0,Fungal
+AA00970940,Guinea,29,f,6,foot,0.0,Eczema
+AA00970941,Guinea,12,f,6,pelvic,0.0,Scabies
+AA00970942,Guinea,4,m,6,hand,0.0,Scabies
+AA00970943,Guinea,7,m,6,hair,0.0,Fungal
+AA00970945,Guinea,7,m,6,hair,0.0,Fungal
+AA00970946,Guinea,6,m,6,hair,0.0,Fungal
+AA00970948,Guinea,6,m,6,hair,0.0,Fungal
+AA00970952,Guinea,7,m,6,hair,0.0,Fungal
+AA00970953,Guinea,42,f,6,pelvic; back,0.0,Fungal
+AA00970954,Guinea,27,f,6,pelvic,0.0,Fungal
+AA00970955,Guinea,8,f,6,hair,0.0,Fungal
+AA00970956,Guinea,8,f,6,hair,0.0,Fungal
+AA00970957,Guinea,18,m,6,torso,0.0,Fungal
+AA00970944,Madagascar,36,f,4,pelvic; back,0.0,Fungal
+AA00970958,Guinea,8,m,6,face,0.0,Eczema
+AA00970959,Guinea,6,m,6,face,0.0,Eczema
+AA00970960,Guinea,1,m,6,hand,0.0,Scabies
+AA00970961,Guinea,1,f,6,foot,0.0,Scabies
+AA00970963,Guinea,3,f,6,torso,0.0,Fungal
+AA00970964,Guinea,7,m,6,hair,0.0,Fungal
+AA00970965,Guinea,7,m,6,hair,0.0,Fungal
+AA00970966,Guinea,6,m,6,hair,0.0,Fungal
+AA00970967,Guinea,7,m,6,hair,0.0,Fungal
+AA00970968,Guinea,27,f,6,leg,0.0,Fungal
+AA00970970,Madagascar,1,f,5,back; pelvic; arm; hand; foot; torso; leg,0.0,Scabies
+AA00970971,Madagascar,6,m,4,,1.0,Others
+AA00970972,Madagascar,7,m,4,,0.0,Eczema
+AA00970973,Madagascar,19,m,5,,0.0,Scabies
+AA00970974,Madagascar,69,f,4,,0.0,Scabies
+AA00970981,Madagascar,8,m,5,,0.0,Fungal
+AA00970982,Madagascar,28,m,4,,0.0,Scabies
+AA00970983,Guinea,43,f,6,leg,0.0,Fungal
+AA00970984,Guinea,8,f,6,hair,0.0,Fungal
+AA00970986,Guinea,7,f,6,hair,0.0,Fungal
+AA00970987,Guinea,41,f,6,torso,0.0,Fungal
+AA00970988,Guinea,6,m,6,hair,0.0,Fungal
+AA00970989,Guinea,6,m,6,hair,0.0,Fungal
+AA00970990,Guinea,5,m,6,hair,0.0,Fungal
+AA00970991,Guinea,6,m,6,hair,0.0,Fungal
+AA00970992,Guinea,6,f,6,hair,0.0,Fungal
+AA00970993,Guinea,5,m,6,hair,0.0,Fungal
+AA00970995,Guinea,1,m,6,torso,0.0,Scabies
+AA00970996,Guinea,6,f,6,hair,0.0,Fungal
+AA00970997,Guinea,6,m,6,hair,0.0,Fungal
+AA00970998,Guinea,9,m,6,hair,0.0,Fungal
+AA00970999,Guinea,1,m,6,arm,0.0,Fungal
+AA00971000,Guinea,25,f,6,pelvic,0.0,Fungal
+AA00971001,Guinea,24,f,6,hair,0.0,Fungal
+AA00971002,Guinea,28,f,6,hair,0.0,Fungal
+AA00971003,Guinea,5,f,6,hair,0.0,Fungal
+AA00971004,Guinea,4,f,6,hair,0.0,Fungal
+AA00971005,Guinea,6,f,6,hair,0.0,Fungal
+AA00971006,Guinea,7,f,6,hair,0.0,Fungal
+AA00971007,Guinea,4,f,6,hair,0.0,Fungal
+AA00971008,Guinea,7,f,6,hair,0.0,Fungal
+AA00971009,Guinea,4,f,6,hair,0.0,Fungal
+AA00971010,Guinea,3,m,6,hair,0.0,Fungal
+AA00971012,Guinea,5,m,6,hair,0.0,Fungal
+AA00971013,Guinea,5,m,6,hair,0.0,Fungal
+AA00971014,Guinea,4,m,6,hair,0.0,Fungal
+AA00971015,Guinea,13,m,6,torso,0.0,Fungal
+AA00971016,Guinea,6,f,6,hair,0.0,Fungal
+AA00971018,Guinea,4,m,6,hair,0.0,Fungal
+AA00971019,Guinea,6,m,6,hair,0.0,Fungal
+AA00971020,Guinea,4,m,6,hair,0.0,Fungal
+AA00971021,Guinea,13,f,6,leg,0.0,Fungal
+AA00971022,Guinea,14,m,6,leg,0.0,Fungal
+AA00971023,Guinea,6,m,6,hair,0.0,Fungal
+AA00971024,Guinea,15,f,6,foot,0.0,Fungal
+AA00971025,Guinea,28,m,6,leg,0.0,Fungal
+AA00971026,Guinea,24,m,6,leg,0.0,Fungal
+AA00971027,Guinea,28,f,6,leg,0.0,Fungal
+AA00971029,Guinea,6,f,6,hair,0.0,Fungal
+AA00971030,Guinea,28,m,6,back,0.0,Fungal
+AA00971031,Guinea,6,f,6,hair,0.0,Fungal
+AA00971032,Guinea,1,m,6,foot; leg,0.0,Scabies
+AA00971033,Guinea,1,m,6,foot; leg,0.0,Scabies
+AA00971034,Guinea,1,f,6,torso; foot,0.0,Scabies
+AA00971035,Guinea,1,m,6,foot; arm,0.0,Scabies
+AA00971036,Guinea,31,m,6,pelvic,0.0,Fungal
+AA00971037,Guinea,1,m,6,foot; hand,0.0,Scabies
+AA00971038,Guinea,7,f,6,hair,0.0,Fungal
+AA00971039,Guinea,4,m,6,hair,0.0,Fungal
+AA00971040,Guinea,5,m,6,hair,0.0,Fungal
+AA00971041,Guinea,7,f,6,hair,0.0,Fungal
+AA00971042,Guinea,20,f,6,back,0.0,Fungal
+AA00971043,Guinea,2,m,6,leg,0.0,Fungal
+AA00971044,Guinea,1,m,6,hand,0.0,Scabies
+AA00971045,Guinea,1,m,6,foot; leg,0.0,Fungal
+AA00971046,Guinea,26,f,6,arm,0.0,Fungal
+AA00971048,Guinea,3,m,6,foot,0.0,Eczema
+AA00971049,Guinea,4,f,6,foot,0.0,Eczema
+AA00971050,Guinea,35,f,6,torso,0.0,Fungal
+AA00971051,Guinea,29,f,6,arm,0.0,Fungal
+AA00971052,Guinea,33,f,6,arm,0.0,Fungal
+AA00971053,Guinea,5,m,6,hair,0.0,Fungal
+AA00971054,Guinea,6,m,6,hair,0.0,Fungal
+AA00971055,Guinea,6,m,6,hair,0.0,Fungal
+AA00971056,Guinea,7,m,6,hair,0.0,Fungal
+AA00971057,Guinea,5,m,6,hair,0.0,Fungal
+AA00971058,Guinea,6,m,6,hair,0.0,Fungal
+AA00971059,Guinea,6,m,6,hair,0.0,Fungal
+AA00971060,Guinea,5,m,6,hair,0.0,Fungal
+AA00971061,Guinea,5,m,6,hair,0.0,Fungal
+AA00971062,Guinea,7,m,6,hair,0.0,Fungal
+AA00971063,Guinea,4,m,6,hair,0.0,Fungal
+AA00971064,Guinea,5,m,6,hair,0.0,Fungal
+AA00971066,Guinea,27,m,6,torso,0.0,Fungal
+AA00971067,Guinea,24,m,6,torso,0.0,Fungal
+AA00971068,Guinea,36,f,6,arm,1.0,Fungal
+AA00971069,Guinea,30,f,6,leg,0.0,Fungal
+AA00971070,Guinea,18,f,6,leg,0.0,Fungal
+AA00971071,Guinea,22,f,6,leg,0.0,Fungal
+AA00971072,Guinea,23,m,6,torso,0.0,Fungal
+AA00971073,Guinea,6,m,6,hair,0.0,Fungal
+AA00971074,Guinea,5,m,6,hair,0.0,Fungal
+AA00971075,Guinea,6,m,6,hair,0.0,Fungal
+AA00971076,Guinea,4,m,6,pelvic,0.0,Scabies
+AA00971077,Guinea,5,m,6,hair,0.0,Fungal
+AA00971078,Guinea,5,m,6,face,0.0,Fungal
+AA00971079,Guinea,6,f,6,hair,0.0,Fungal
+AA00971080,Guinea,4,m,6,hair,0.0,Fungal
+AA00971081,Guinea,7,m,6,hair,0.0,Fungal
+AA00971082,Guinea,6,m,6,hair,0.0,Fungal
+AA00971083,Guinea,5,m,6,hair,0.0,Fungal
+AA00971084,Guinea,7,m,6,hair,0.0,Fungal
+AA00971085,Guinea,4,m,6,hair,0.0,Fungal
+AA00971086,Guinea,5,m,6,hair,0.0,Fungal
+AA00971087,Guinea,4,f,6,hair,0.0,Fungal
+AA00971088,Guinea,5,m,6,hair,0.0,Fungal
+AA00971089,Guinea,7,f,6,hair,0.0,Fungal
+AA00971090,Guinea,29,f,6,leg,0.0,Fungal
+AA00971091,Guinea,36,f,6,hand,0.0,Fungal
+AA00971092,Guinea,4,m,6,hair,0.0,Fungal
+AA00971093,Guinea,5,m,6,hair,0.0,Fungal
+AA00971094,Guinea,24,m,6,back,0.0,Fungal
+AA00971095,Guinea,26,f,6,torso,0.0,Fungal
+AA00971096,Guinea,23,m,6,back,0.0,Fungal
+AA00971097,Guinea,27,f,6,torso,0.0,Fungal
+AA00971098,Guinea,4,f,6,face,0.0,Fungal
+AA00971099,Guinea,5,m,6,hair,0.0,Fungal
+AA00971100,Guinea,7,m,6,hair,0.0,Fungal
+AA00971101,Guinea,7,m,6,hair,0.0,Fungal
+AA00971102,Guinea,6,m,6,hair,0.0,Fungal
+AA00971103,Guinea,5,m,6,hair,0.0,Fungal
+AA00971104,Guinea,8,f,6,hair,0.0,Fungal
+AA00971105,Guinea,40,f,6,foot,0.0,Fungal
+AA00971106,Guinea,34,f,6,foot,0.0,Fungal
+AA00971107,Guinea,9,m,6,hair,0.0,Fungal
+AA00971108,Guinea,32,m,4,foot,0.0,Eczema
+AA00971109,Madagascar,9,m,4,hair,0.0,Fungal
+AA00971110,Madagascar,17,m,3,arm,0.0,Fungal
+AA00971111,Madagascar,45,m,3,torso,0.0,Fungal
+AA00971112,Madagascar,46,m,3,foot,0.0,Eczema
+AA00971113,Madagascar,22,m,3,arm,0.0,Fungal
+AA00971114,Madagascar,52,f,3,torso; pelvic; leg,0.0,Fungal
+AA00971115,Madagascar,5,m,3,,0.0,Eczema
+AA00971116,Madagascar,4,m,3,,0.0,Eczema
+AA00971117,Madagascar,2,m,3,,0.0,Eczema
+AA00971121,Madagascar,8,f,3,,0.0,Eczema
+AA00971122,Madagascar,40,m,3,,0.0,Fungal
+AA00971123,Madagascar,38,f,3,,0.0,Scabies
+AA00971124,Madagascar,36,m,3,,0.0,Scabies
+AA00971125,Madagascar,13,m,3,,0.0,Scabies
+AA00971126,Madagascar,52,f,3,,0.0,Eczema
+AA00971127,Madagascar,11,f,3,,0.0,Eczema
+AA00971130,Madagascar,44,m,3,,0.0,Eczema
+AA00971131,Madagascar,28,f,5,hand; arm; leg,0.0,Scabies
+AA00971132,Madagascar,23,m,4,torso; face; back,0.0,Eczema
+AA00971133,Madagascar,23,f,4,torso; arm; back,0.0,Fungal
+AA00971134,Madagascar,20,f,5,arm,0.0,Fungal
+AA00971135,Madagascar,11,m,5,hair,0.0,Fungal
+AA00971136,Madagascar,26,m,4,hand,0.0,Scabies
+AA00971137,Madagascar,31,f,4,,0.0,Fungal
+AA00971138,Madagascar,2,f,4,torso; back; arm; leg,0.0,Eczema
+AA00971139,Madagascar,8,m,4,face,1.0,Others
+AA00971140,Madagascar,1,f,4,face,0.0,Eczema
+AA00971141,Madagascar,11,m,5,hair,1.0,Fungal
+AA00971142,Madagascar,28,m,5,hand; pelvic,0.0,Scabies
+AA00971143,Madagascar,23,f,4,pelvic,0.0,Fungal
+AA00971144,Madagascar,39,m,3,,0.0,Fungal
+AA00971145,Madagascar,11,f,3,,0.0,Fungal
+AA00971146,Madagascar,12,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971147,Madagascar,18,m,5,hand; pelvic,0.0,Scabies
+AA00971148,Madagascar,4,m,5,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971149,Madagascar,3,m,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971150,Madagascar,28,f,4,hand; pelvic,0.0,Scabies
+AA00971151,Madagascar,4,m,5,pelvic; arm; foot; hand; leg,1.0,Scabies
+AA00971152,Madagascar,7,m,3,hand,0.0,Scabies
+AA00971153,Madagascar,26,m,4,torso; hand; pelvic,0.0,Scabies
+AA00971155,Madagascar,40,m,4,,0.0,Fungal
+AA00971156,Madagascar,25,m,3,,0.0,Fungal
+AA00971157,Madagascar,1,m,3,torso,0.0,Fungal
+AA00971158,Madagascar,22,f,4,torso; arm; back,0.0,Eczema
+AA00971159,Madagascar,32,m,5,torso; face; back,0.0,Eczema
+AA00971160,Madagascar,25,m,6,hand,0.0,Fungal
+AA00971161,Madagascar,28,m,5,hand; pelvic,0.0,Scabies
+AA00971163,Madagascar,23,f,3,back,0.0,Scabies
+AA00971164,Madagascar,30,f,4,hand,0.0,Eczema
+AA00971165,Madagascar,2,f,3,face; leg,0.0,Eczema
+AA00971166,Madagascar,35,f,3,torso; arm; back,0.0,Others
+AA00971167,Madagascar,26,m,3,torso; pelvic; arm; back,0.0,Scabies
+AA00971168,Madagascar,22,f,3,torso; hand; arm; back,0.0,Scabies
+AA00971169,Madagascar,43,f,3,torso; arm,0.0,Scabies
+AA00971170,Madagascar,17,m,4,foot; leg,0.0,Scabies
+AA00971171,Madagascar,44,f,3,torso; pelvic,0.0,Scabies
+AA00971172,Madagascar,54,m,4,torso; pelvic; arm; back,0.0,Scabies
+AA00971173,Madagascar,50,m,3,torso; hand; pelvic; arm,0.0,Scabies
+AA00971174,Madagascar,0,f,3,foot,0.0,Scabies
+AA00971175,Madagascar,22,m,3,hand; leg,0.0,Scabies
+AA00971176,Madagascar,29,f,3,,0.0,Eczema
+AA00971177,Madagascar,22,f,3,,0.0,Eczema
+AA00971178,Madagascar,3,f,3,,0.0,Scabies
+AA00971179,Madagascar,2,m,3,,0.0,Scabies
+AA00971181,Madagascar,54,m,3,,0.0,Eczema
+AA00971183,Madagascar,25,m,5,,1.0,Scabies
+AA00971184,Madagascar,32,m,5,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971185,Madagascar,8,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971186,Madagascar,25,f,5,torso; hand; arm; back,0.0,Scabies
+AA00971188,Madagascar,46,m,5,back; pelvic; arm; foot; hand; torso; leg,0.0,Scabies
+AA00971189,Madagascar,97,f,3,torso; back; arm; leg,0.0,Scabies
+AA00971190,Madagascar,10,m,5,hair,0.0,Fungal
+AA00971191,Madagascar,18,m,5,,0.0,Scabies
+AA00971194,Malawi,6,f,4,hair,1.0,Others
+AA00971195,Malawi,1,f,4,,0.0,Eczema
+AA00971196,Malawi,3,f,4,leg,0.0,Eczema
+AA00971197,Malawi,3,m,3,face,1.0,Others
+AA00971200,Malawi,2,m,3,face,1.0,Others
+AA00971201,Malawi,3,m,4,,1.0,Others
+AA00971203,Malawi,6,f,3,face; leg,1.0,Others
+AA00971204,Malawi,5,m,4,leg,1.0,Others
+AA00971205,Malawi,7,m,4,hair; face,1.0,Others
+AA00971206,Malawi,7,f,3,hair,1.0,Others
+AA00971207,Malawi,2,f,3,back; face; arm; torso; leg,0.0,Eczema
+AA00971208,Malawi,2,f,3,hair,1.0,Others
+AA00971209,Malawi,3,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971210,Malawi,0,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971211,Malawi,0,m,3,face,0.0,Eczema
+AA00971212,Malawi,0,f,3,back; pelvic; arm; hand; foot; torso; leg,0.0,Scabies
+AA00971213,Malawi,2,f,4,torso; pelvic; arm,0.0,Scabies
+AA00971214,Malawi,5,f,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971215,Malawi,7,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971216,Malawi,7,m,3,hair,1.0,Fungal
+AA00971217,Malawi,6,m,3,leg,1.0,Others
+AA00971218,Malawi,2,m,4,,1.0,Others
+AA00971219,Malawi,7,m,4,hair,0.0,Fungal
+AA00971220,Malawi,1,f,3,back; pelvic; arm; torso; leg,0.0,Eczema
+AA00971221,Malawi,4,f,3,torso; arm; back,0.0,Scabies
+AA00971222,Malawi,0,m,3,back; hair; face; arm; pelvic; hand; torso; arm; leg,0.0,Others
+AA00971223,Malawi,13,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971224,Malawi,8,m,3,torso; pelvic; arm; leg,0.0,Scabies
+AA00971225,Malawi,1,m,3,hair; face,0.0,Eczema
+AA00971226,Malawi,1,f,3,torso; leg,0.0,Eczema
+AA00971227,Malawi,2,m,4,hair,0.0,Fungal
+AA00971228,Malawi,3,f,3,torso; back,0.0,Others
+AA00971229,Malawi,2,m,3,arm,1.0,Eczema
+AA00971230,Malawi,2,m,3,arm; leg,1.0,Others
+AA00971231,Malawi,2,m,3,arm,0.0,Eczema
+AA00971232,Malawi,1,f,3,face,1.0,Others
+AA00971233,Malawi,8,f,3,hair; back,0.0,Fungal
+AA00971234,Malawi,4,m,3,face,1.0,Others
+AA00971235,Malawi,2,f,3,back; pelvic; arm; torso; leg,0.0,Eczema
+AA00971236,Malawi,0,m,3,hair; face,0.0,Eczema
+AA00971237,Malawi,4,m,3,pelvic; face,1.0,Others
+AA00971238,Malawi,6,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971239,Malawi,8,f,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971241,Madagascar,56,f,4,back; hair; pelvic; arm; torso; leg,0.0,Scabies
+AA00971242,Madagascar,14,m,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971243,Madagascar,43,f,4,back; arm; hand; torso; leg,0.0,Scabies
+AA00971244,Madagascar,10,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971245,Madagascar,8,m,4,face,0.0,Fungal
+AA00971246,Madagascar,17,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971247,Malawi,2,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971248,Malawi,3,m,3,back; hair; face; arm; pelvic; torso,0.0,Others
+AA00971249,Malawi,1,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971250,Malawi,1,f,3,face,1.0,Others
+AA00971251,Malawi,5,m,4,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971252,Malawi,0,f,3,pelvic; arm; hand; foot; torso,1.0,Scabies
+AA00971253,Malawi,3,m,4,arm,1.0,Others
+AA00971254,Malawi,1,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971255,Malawi,3,f,4,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971256,Malawi,7,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971257,Malawi,1,f,3,face,1.0,Others
+AA00971258,Malawi,2,m,4,leg,0.0,Eczema
+AA00971259,Malawi,1,m,3,face,1.0,Others
+AA00971260,Malawi,1,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971261,Malawi,1,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971262,Malawi,5,m,3,hair,0.0,Fungal
+AA00971263,Malawi,6,m,3,back; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971264,Malawi,4,f,4,back; pelvic; arm; torso; leg,0.0,Eczema
+AA00971265,Malawi,4,f,4,face,1.0,Others
+AA00971266,Malawi,4,f,3,back; hair; face; arm; pelvic; torso; leg,1.0,Others
+AA00971267,Malawi,10,m,3,back; pelvic; arm; torso; leg,1.0,Scabies
+AA00971268,Malawi,1,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971269,Malawi,5,m,3,hair,0.0,Fungal
+AA00971270,Malawi,8,m,3,hair,0.0,Fungal
+AA00971271,Guinea,36,f,6,arm,0.0,Others
+AA00971272,Guinea,30,f,6,foot,0.0,Fungal
+AA00971273,Guinea,32,f,6,hand,0.0,Fungal
+AA00971274,Guinea,35,m,6,hand,0.0,Fungal
+AA00971275,Guinea,29,m,6,hand; arm,0.0,Fungal
+AA00971282,Malawi,3,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971283,Malawi,2,m,3,back; hair; pelvic; arm; torso; leg,0.0,Others
+AA00971284,Malawi,3,m,3,hair,1.0,Others
+AA00971285,Malawi,4,f,3,hair,0.0,Fungal
+AA00971287,Malawi,6,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971288,Malawi,11,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971289,Malawi,2,f,3,torso; back,0.0,Eczema
+AA00971290,Malawi,1,m,3,hair,1.0,Fungal
+AA00971291,Malawi,1,m,3,back; pelvic; arm; torso; leg,1.0,Scabies
+AA00971292,Malawi,5,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971293,Malawi,0,f,3,back; pelvic; arm; torso; leg,1.0,Scabies
+AA00971298,Malawi,1,f,3,face,0.0,Eczema
+AA00971299,Malawi,4,f,4,back; face; arm; pelvic; torso; leg,0.0,Others
+AA00971300,Malawi,6,m,3,hair,0.0,Fungal
+AA00971301,Malawi,6,f,3,face,0.0,Fungal
+AA00971302,Malawi,9,m,3,back; pelvic; arm; torso; leg,1.0,Scabies
+AA00971303,Malawi,9,m,3,hair,0.0,Fungal
+AA00971304,Malawi,3,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971305,Malawi,3,m,3,face; leg,1.0,Others
+AA00971306,Malawi,8,m,3,hair,0.0,Fungal
+AA00971307,Malawi,3,m,3,hair,1.0,Fungal
+AA00971308,Malawi,10,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971309,Malawi,5,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971310,Malawi,1,f,3,back; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971311,Malawi,3,f,3,hair,0.0,Fungal
+AA00971312,Malawi,14,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971313,Malawi,5,m,3,hair,0.0,Fungal
+AA00971314,Malawi,3,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971315,Malawi,5,f,3,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971316,Malawi,0,m,3,hair; face,0.0,Eczema
+AA00971317,Malawi,2,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971318,Malawi,10,m,3,back; face; arm; torso; leg,1.0,Eczema
+AA00971319,Malawi,2,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971320,Malawi,1,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971321,Malawi,6,m,3,back; pelvic; arm; torso; leg,0.0,Others
+AA00971322,Malawi,4,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971323,Malawi,8,m,3,hair,1.0,Fungal
+AA00971324,Malawi,1,f,3,back; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971325,Malawi,3,f,4,hair,0.0,Fungal
+AA00971326,Malawi,3,m,4,hair,0.0,Fungal
+AA00971327,Malawi,2,m,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971328,Malawi,4,f,3,hair,0.0,Fungal
+AA00971329,Malawi,4,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971330,Malawi,9,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971332,Malawi,4,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971333,Malawi,3,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971335,Malawi,6,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971336,Malawi,9,m,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971337,Malawi,7,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971338,Malawi,0,m,3,face,0.0,Eczema
+AA00971339,Malawi,12,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971340,Malawi,0,m,3,back; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971343,Malawi,6,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971344,Malawi,8,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971356,Madagascar,16,f,4,hair; torso; arm; back,0.0,Fungal
+AA00971357,Madagascar,20,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971358,Madagascar,27,f,3,leg,0.0,Fungal
+AA00971359,Madagascar,39,m,4,face,0.0,Fungal
+AA00971345,Malawi,8,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971346,Malawi,5,m,3,hair,1.0,Fungal
+AA00971347,Malawi,9,f,3,hair,1.0,Fungal
+AA00971348,Malawi,5,m,3,hair,0.0,Fungal
+AA00971349,Malawi,5,m,4,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971350,Malawi,4,f,4,back; hair; pelvic; arm; torso; leg,0.0,Others
+AA00971351,Malawi,4,m,4,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971363,Madagascar,62,m,3,,0.0,Eczema
+AA00971364,Madagascar,1,f,3,,0.0,Eczema
+AA00971365,Madagascar,1,m,3,,0.0,Eczema
+AA00971352,Malawi,3,m,4,leg,1.0,Others
+AA00971353,Malawi,9,m,5,back; hair; face; arm; pelvic; torso; leg,1.0,Others
+AA00971354,Malawi,1,m,5,face,1.0,Others
+AA00971355,Malawi,0,f,5,face,0.0,Eczema
+AA00971373,Madagascar,19,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971374,Madagascar,24,m,5,leg,0.0,Fungal
+AA00971375,Madagascar,2,m,4,face,0.0,Eczema
+AA00971376,Madagascar,49,f,5,hand; pelvic; back,0.0,Scabies
+AA00971377,Madagascar,19,f,4,foot; pelvic; leg,0.0,Scabies
+AA00971378,Madagascar,20,f,4,hand; arm,0.0,Scabies
+AA00971379,Madagascar,9,m,4,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00971380,Madagascar,1,m,3,face,0.0,Eczema
+AA00971381,Madagascar,0,m,3,face,0.0,Eczema
+AA00971404,Madagascar,18,m,5,,0.0,Scabies
+AA00971405,Madagascar,28,f,4,torso,0.0,Scabies
+AA00971366,Malawi,9,f,5,back; hair; face; arm; pelvic; foot; torso; leg,0.0,Others
+AA00971367,Malawi,12,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971368,Malawi,2,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971369,Malawi,6,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971370,Malawi,6,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971412,Madagascar,18,f,4,face,1.0,Others
+AA00971413,Madagascar,55,m,4,hair; torso; face; back,0.0,Eczema
+AA00971414,Madagascar,32,m,5,torso; arm; leg; back,1.0,Eczema
+AA00971415,Madagascar,32,m,5,torso,0.0,Eczema
+AA00971416,Madagascar,24,m,3,,0.0,Fungal
+AA00971417,Madagascar,12,m,4,hair,1.0,Fungal
+AA00971418,Madagascar,30,m,5,face,1.0,Eczema
+AA00971419,Madagascar,9,f,4,torso; arm; leg; back,0.0,Eczema
+AA00971420,Madagascar,5,m,3,arm; back,0.0,Scabies
+AA00971421,Madagascar,47,f,5,back; face; arm; torso; leg,0.0,Scabies
+AA00971422,Madagascar,44,m,5,torso; hand; pelvic; arm,0.0,Scabies
+AA00971423,Madagascar,54,f,3,torso; pelvic; arm; back,0.0,Scabies
+AA00971424,Madagascar,12,m,3,face,0.0,Fungal
+AA00971425,Madagascar,40,m,5,pelvic; arm,0.0,Scabies
+AA00971426,Madagascar,32,m,4,face,1.0,Others
+AA00971427,Madagascar,17,f,4,torso,0.0,Fungal
+AA00971428,Madagascar,30,m,4,leg,0.0,Fungal
+AA00971429,Madagascar,7,m,3,arm,0.0,Eczema
+AA00971430,Madagascar,1,m,4,hair,0.0,Fungal
+AA00971431,Madagascar,26,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971432,Madagascar,7,f,3,torso; back; arm; leg,0.0,Eczema
+AA00971433,Madagascar,18,f,3,leg,0.0,Eczema
+AA00971434,Madagascar,8,f,3,torso; arm; back,0.0,Eczema
+AA00971435,Madagascar,44,f,4,hand,0.0,Fungal
+AA00971436,Madagascar,58,m,3,arm; leg,0.0,Fungal
+AA00971437,Madagascar,12,f,3,torso; hand; pelvic; leg,0.0,Scabies
+AA00971438,Madagascar,32,m,3,hair; back,0.0,Eczema
+AA00971439,Madagascar,17,f,4,torso; hand; pelvic; leg,0.0,Scabies
+AA00971440,Madagascar,28,f,4,arm; leg,0.0,Fungal
+AA00971441,Madagascar,28,m,4,torso; arm; back,0.0,Fungal
+AA00971442,Madagascar,10,m,5,torso,0.0,Fungal
+AA00971443,Madagascar,30,m,3,,0.0,Eczema
+AA00971444,Madagascar,48,m,4,hand,0.0,Fungal
+AA00971446,Madagascar,46,f,4,hand,0.0,Fungal
+AA00971447,Madagascar,42,m,4,hand,0.0,Fungal
+AA00971448,Madagascar,18,m,4,hand,0.0,Fungal
+AA00971449,Madagascar,26,m,3,torso; arm; back,0.0,Fungal
+AA00971450,Madagascar,55,m,3,torso,0.0,Fungal
+AA00971451,Madagascar,25,f,5,arm,0.0,Fungal
+AA00971452,Madagascar,1,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971453,Madagascar,23,f,5,torso; back; leg,0.0,Scabies
+AA00971454,Madagascar,27,m,5,,0.0,Scabies
+AA00971455,Madagascar,26,f,4,torso; pelvic; back; leg,0.0,Scabies
+AA00971456,Madagascar,14,m,4,torso; hand; arm,0.0,Scabies
+AA00971457,Madagascar,15,m,4,torso; arm; back,0.0,Scabies
+AA00971458,Madagascar,37,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971459,Madagascar,18,m,4,torso; hand,0.0,Scabies
+AA00971460,Madagascar,1,f,3,back; face; arm; pelvic; foot; torso; leg,0.0,Scabies
+AA00971461,Madagascar,7,m,6,hair,0.0,Fungal
+AA00971462,Madagascar,8,m,4,hair,0.0,Fungal
+AA00971463,Madagascar,1,f,3,back; face; pelvic; torso; leg,0.0,Eczema
+AA00971464,Madagascar,19,m,4,pelvic; back,0.0,Fungal
+AA00971465,Madagascar,28,m,5,torso,0.0,Fungal
+AA00971466,Madagascar,41,f,5,hand,0.0,Fungal
+AA00971467,Madagascar,35,f,4,torso; pelvic; arm; back,0.0,Scabies
+AA00971468,Madagascar,40,m,4,torso,0.0,Eczema
+AA00971469,Madagascar,43,f,3,arm,0.0,Eczema
+AA00971470,Madagascar,29,f,4,arm,0.0,Eczema
+AA00971471,Madagascar,35,f,4,leg,0.0,Fungal
+AA00971472,Madagascar,53,m,4,back,0.0,Fungal
+AA00971473,Madagascar,38,m,4,face,0.0,Fungal
+AA00971474,Madagascar,31,m,4,torso,0.0,Fungal
+AA00971475,Madagascar,25,m,4,leg,0.0,Fungal
+AA00971476,Madagascar,45,f,4,torso; arm; leg,0.0,Fungal
+AA00971477,Madagascar,40,f,3,leg,0.0,Fungal
+AA00971478,Madagascar,26,m,5,hand,0.0,Fungal
+AA00971479,Madagascar,27,f,5,foot,0.0,Fungal
+AA00971480,Madagascar,47,m,4,hand,0.0,Fungal
+AA00971481,Madagascar,25,m,5,arm; back,0.0,Fungal
+AA00971482,Madagascar,40,m,4,torso; arm; back,0.0,Fungal
+AA00971483,Madagascar,3,m,3,hair,0.0,Fungal
+AA00971484,Madagascar,23,m,4,hand; pelvic; arm,0.0,Scabies
+AA00971485,Madagascar,20,m,4,torso; hand; pelvic; back,0.0,Scabies
+AA00971486,Madagascar,43,f,3,torso,0.0,Scabies
+AA00971487,Madagascar,51,m,4,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00971488,Madagascar,29,m,5,torso; arm,0.0,Scabies
+AA00971489,Madagascar,22,m,4,hand; arm,0.0,Scabies
+AA00971490,Madagascar,54,m,4,torso; arm,0.0,Scabies
+AA00971491,Madagascar,30,f,3,torso; arm,0.0,Scabies
+AA00971492,Madagascar,33,m,3,torso; hand; arm,0.0,Scabies
+AA00971493,Madagascar,35,m,4,back; arm; hand; torso; leg,0.0,Scabies
+AA00971494,Madagascar,32,m,4,torso; hand; arm; leg,0.0,Scabies
+AA00971495,Madagascar,35,f,4,pelvic; back,0.0,Scabies
+AA00971496,Madagascar,28,m,5,torso; pelvic; arm; back,0.0,Scabies
+AA00971497,Madagascar,0,m,4,foot; pelvic; leg,0.0,Scabies
+AA00971498,Madagascar,21,m,3,pelvic; back,0.0,Scabies
+AA00971499,Madagascar,25,m,5,torso; arm; back,0.0,Scabies
+AA00971500,Madagascar,1,f,4,torso; back; leg,0.0,Scabies
+AA00971501,Madagascar,1,f,5,foot; leg,0.0,Scabies
+AA00971502,Madagascar,26,m,4,torso; arm,0.0,Scabies
+AA00971503,Madagascar,29,m,4,torso; back; arm; leg,0.0,Scabies
+AA00971504,Madagascar,54,f,5,torso; leg,0.0,Scabies
+AA00971505,Madagascar,25,f,4,arm; leg,0.0,Scabies
+AA00971506,Madagascar,4,m,5,hair,0.0,Fungal
+AA00971507,Madagascar,6,m,5,hair,0.0,Fungal
+AA00971508,Madagascar,4,m,5,hair,0.0,Fungal
+AA00971509,Madagascar,44,f,4,torso,0.0,Fungal
+AA00971510,Madagascar,27,m,3,hand; pelvic; arm; leg,0.0,Scabies
+AA00971511,Madagascar,27,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971512,Madagascar,30,f,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971513,Madagascar,4,m,4,torso; pelvic; arm,0.0,Scabies
+AA00971514,Madagascar,28,m,4,torso; hand; pelvic; leg,0.0,Scabies
+AA00971515,Madagascar,40,f,4,torso; hand; pelvic; leg,0.0,Scabies
+AA00971516,Madagascar,22,m,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971517,Madagascar,27,m,5,pelvic,0.0,Scabies
+AA00971518,Madagascar,34,f,4,leg,0.0,Fungal
+AA00971519,Madagascar,26,m,5,pelvic; back,0.0,Scabies
+AA00971520,Madagascar,39,f,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971521,Madagascar,63,f,4,torso; arm,0.0,Fungal
+AA00971522,Madagascar,33,m,4,torso; pelvic; leg,0.0,Scabies
+AA00971523,Madagascar,1,m,3,hair; face; arm; torso; leg,0.0,Eczema
+AA00971524,Madagascar,1,m,3,torso; arm; leg,0.0,Eczema
+AA00971525,Madagascar,25,f,4,torso; hand; pelvic,0.0,Scabies
+AA00971526,Madagascar,13,m,5,pelvic; arm; leg,0.0,Scabies
+AA00971527,Madagascar,1,m,4,hair; torso; face; arm,0.0,Eczema
+AA00971528,Madagascar,41,f,5,hand; pelvic; back; leg,0.0,Scabies
+AA00971529,Madagascar,12,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971530,Madagascar,60,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971531,Madagascar,46,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971532,Madagascar,25,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971533,Madagascar,36,m,5,hand; pelvic; back; leg,0.0,Scabies
+AA00971534,Madagascar,36,m,5,leg,0.0,Fungal
+AA00971535,Madagascar,18,f,4,torso; pelvic; back,0.0,Scabies
+AA00971536,Madagascar,29,m,5,leg,0.0,Fungal
+AA00971537,Madagascar,1,m,3,torso; face; arm; back,0.0,Eczema
+AA00971538,Madagascar,2,m,3,back; face; arm; torso; leg,0.0,Eczema
+AA00971539,Madagascar,24,f,4,torso; hand; pelvic; back,0.0,Scabies
+AA00971540,Madagascar,20,m,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971541,Madagascar,20,m,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971542,Madagascar,1,m,3,back; face; arm; torso; leg,0.0,Eczema
+AA00971543,Madagascar,28,m,4,leg,0.0,Fungal
+AA00971544,Madagascar,27,f,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971546,Madagascar,20,m,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971547,Madagascar,36,m,4,hand; pelvic; back; leg,0.0,Scabies
+AA00971548,Madagascar,28,m,4,leg,0.0,Scabies
+AA00971549,Madagascar,33,f,4,hand; pelvic; leg,0.0,Scabies
+AA00971550,Madagascar,37,m,4,hand; pelvic; back; leg,0.0,Scabies
+AA00971551,Madagascar,15,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971552,Madagascar,25,f,3,torso; pelvic; back; leg,0.0,Scabies
+AA00971553,Madagascar,22,m,5,hand; back; leg,0.0,Scabies
+AA00971554,Madagascar,43,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971555,Madagascar,32,m,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971556,Madagascar,5,m,4,torso; pelvic; arm,0.0,Scabies
+AA00971557,Madagascar,21,f,4,hand; pelvic; back,0.0,Scabies
+AA00971558,Madagascar,18,f,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971559,Madagascar,34,f,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971560,Madagascar,19,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971561,Madagascar,32,m,4,leg,0.0,Fungal
+AA00971562,Madagascar,17,m,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971563,Madagascar,10,f,3,arm; leg,0.0,Eczema
+AA00971564,Madagascar,37,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971565,Madagascar,34,f,5,torso; pelvic; back; leg,0.0,Scabies
+AA00971566,Madagascar,47,m,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971567,Madagascar,10,f,4,torso; arm; leg,0.0,Eczema
+AA00971568,Madagascar,4,m,4,torso; face,0.0,Eczema
+AA00971569,Madagascar,28,f,3,face; leg,0.0,Eczema
+AA00971570,Madagascar,36,f,3,,0.0,Fungal
+AA00971571,Madagascar,32,f,3,torso; arm,0.0,Fungal
+AA00971572,Madagascar,32,m,4,foot,0.0,Eczema
+AA00971573,Madagascar,28,m,4,,0.0,Scabies
+AA00971574,Madagascar,22,f,4,torso; back,0.0,Fungal
+AA00971575,Madagascar,6,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971583,Madagascar,26,m,5,torso; pelvic; arm; back,0.0,Scabies
+AA00971584,Madagascar,20,m,5,torso; hand; arm; leg,0.0,Scabies
+AA00971585,Madagascar,0,f,4,back; pelvic; arm; hand; foot; torso; leg,0.0,Scabies
+AA00971586,Madagascar,0,m,4,back; arm; foot; hand; torso; leg,1.0,Scabies
+AA00971587,Madagascar,30,m,4,torso; back,0.0,Fungal
+AA00971588,Madagascar,1,m,3,back; face; arm; pelvic; hand; torso; leg,1.0,Scabies
+AA00971589,Madagascar,24,m,3,torso; arm,0.0,Fungal
+AA00971590,Madagascar,1,f,3,pelvic; arm; leg,0.0,Eczema
+AA00971591,Madagascar,40,m,4,torso; arm; back,0.0,Fungal
+AA00971592,Madagascar,23,m,5,torso; face,0.0,Eczema
+AA00971594,Madagascar,36,m,5,pelvic,0.0,Scabies
+AA00971595,Madagascar,23,f,5,torso,0.0,Fungal
+AA00971596,Madagascar,33,m,5,hand; pelvic; arm; back,0.0,Scabies
+AA00971597,Madagascar,9,f,4,torso; pelvic; leg,0.0,Scabies
+AA00971598,Madagascar,15,f,3,torso; pelvic; arm; back,0.0,Scabies
+AA00971599,Madagascar,38,f,3,torso,0.0,Fungal
+AA00971600,Madagascar,22,m,4,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971601,Madagascar,19,m,5,pelvic,0.0,Scabies
+AA00971602,Madagascar,28,m,5,leg,0.0,Fungal
+AA00971603,Madagascar,10,m,4,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971604,Madagascar,11,m,4,torso; hand; pelvic; leg,0.0,Scabies
+AA00971605,Madagascar,56,f,4,hand; pelvic; arm,0.0,Scabies
+AA00971606,Madagascar,27,m,4,torso; pelvic; leg,0.0,Scabies
+AA00971607,Madagascar,6,m,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971608,Madagascar,1,m,3,pelvic,0.0,Scabies
+AA00971609,Madagascar,52,m,3,torso,0.0,Fungal
+AA00971371,Malawi,13,m,4,hair,1.0,Fungal
+AA00971382,Malawi,7,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971383,Malawi,3,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971638,Madagascar,45,m,5,torso; arm; back,0.0,Scabies
+AA00971640,Madagascar,4,m,5,torso; back,0.0,Scabies
+AA00971642,Madagascar,6,f,4,hand; arm,0.0,Scabies
+AA00971643,Madagascar,7,f,5,pelvic; leg,0.0,Scabies
+AA00971644,Madagascar,32,f,4,torso; hand; arm,0.0,Scabies
+AA00971646,Madagascar,12,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971647,Madagascar,30,f,3,hand; arm,0.0,Scabies
+AA00971639,Madagascar,11,m,3,hair,0.0,Fungal
+AA00971648,Madagascar,31,f,4,torso; hand; pelvic,0.0,Scabies
+AA00971649,Madagascar,21,m,5,torso; arm,0.0,Eczema
+AA00971650,Madagascar,6,m,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971651,Madagascar,30,m,4,hand; pelvic,0.0,Scabies
+AA00971652,Madagascar,27,f,5,hand,0.0,Eczema
+AA00971653,Madagascar,12,m,4,face; back,0.0,Fungal
+AA00971654,Madagascar,13,f,3,face; leg; back,0.0,Fungal
+AA00971655,Madagascar,30,f,5,back; pelvic; foot; torso; leg,0.0,Scabies
+AA00971656,Madagascar,25,m,4,torso; back,0.0,Fungal
+AA00971657,Madagascar,24,m,5,torso; arm; back,0.0,Fungal
+AA00971658,Madagascar,32,m,6,torso; back,0.0,Fungal
+AA00971659,Madagascar,28,m,4,torso; arm,0.0,Fungal
+AA00971661,Madagascar,40,f,4,pelvic; leg,0.0,Fungal
+AA00971662,Madagascar,50,m,4,,0.0,Fungal
+AA00971663,Madagascar,33,f,4,hair; face,0.0,Eczema
+AA00971664,Madagascar,11,f,4,back; pelvic; arm; hand; foot; torso,0.0,Scabies
+AA00971665,Madagascar,13,f,3,torso; face; arm; back,0.0,Eczema
+AA00971667,Madagascar,4,m,3,torso; arm; leg,0.0,Eczema
+AA00971668,Madagascar,43,f,4,torso; back; arm; leg,0.0,Eczema
+AA00971669,Madagascar,33,m,4,leg,0.0,Eczema
+AA00971670,Madagascar,30,f,4,leg,0.0,Eczema
+AA00971671,Madagascar,26,m,4,hand; pelvic; arm,0.0,Scabies
+AA00971672,Madagascar,11,f,5,hand; pelvic; arm,0.0,Scabies
+AA00971673,Madagascar,45,m,5,pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971674,Madagascar,29,m,5,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00971675,Madagascar,10,m,5,back; face; arm; pelvic; hand; torso; leg,1.0,Scabies
+AA00971678,Madagascar,22,f,3,hand; pelvic; arm; leg,0.0,Scabies
+AA00971679,Madagascar,13,f,3,hand; pelvic; arm,0.0,Scabies
+AA00971680,Madagascar,28,m,3,hand; pelvic,0.0,Scabies
+AA00971681,Madagascar,35,m,4,,0.0,Scabies
+AA00971682,Madagascar,26,m,4,hand; arm,0.0,Scabies
+AA00971683,Madagascar,35,f,3,pelvic,0.0,Fungal
+AA00971685,Madagascar,38,m,5,,0.0,Eczema
+AA00971687,Madagascar,28,m,4,hand,0.0,Scabies
+AA00971686,Madagascar,28,m,4,,1.0,Eczema
+AA00971688,Madagascar,1,f,3,torso; hand; leg,0.0,Scabies
+AA00971689,Madagascar,28,m,5,,0.0,Eczema
+AA00971690,Madagascar,25,m,4,hair; face,0.0,Eczema
+AA00971691,Madagascar,25,m,4,hand; arm,0.0,Scabies
+AA00971694,Madagascar,6,m,4,back; pelvic; arm; torso; leg,1.0,Others
+AA00971695,Madagascar,10,f,4,back; pelvic; arm; torso; leg,1.0,Others
+AA00971696,Madagascar,27,f,4,torso,0.0,Scabies
+AA00971697,Madagascar,35,f,4,hand; pelvic; back,0.0,Scabies
+AA00971699,Madagascar,55,f,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971704,Madagascar,50,m,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971705,Madagascar,29,m,5,leg,0.0,Scabies
+AA00971706,Madagascar,26,f,3,torso; pelvic; back,0.0,Scabies
+AA00971707,Madagascar,23,m,5,torso; arm; back,0.0,Scabies
+AA00971708,Madagascar,31,m,5,pelvic; back,0.0,Scabies
+AA00971709,Madagascar,21,f,5,torso,0.0,Scabies
+AA00971710,Madagascar,23,f,5,torso; back; arm; leg,0.0,Scabies
+AA00971711,Madagascar,44,f,4,torso,0.0,Scabies
+AA00971712,Madagascar,11,f,4,hand; pelvic; arm,0.0,Scabies
+AA00971713,Madagascar,32,f,4,hand; pelvic; back; leg,0.0,Scabies
+AA00971714,Madagascar,29,f,4,hand; pelvic; back,0.0,Scabies
+AA00971715,Madagascar,27,m,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971716,Madagascar,36,m,4,hand; pelvic; leg,0.0,Scabies
+AA00971717,Madagascar,31,m,4,hand; pelvic; arm; leg,0.0,Scabies
+AA00971718,Madagascar,1,m,5,face,1.0,Others
+AA00971719,Madagascar,5,m,5,hand; arm,0.0,Scabies
+AA00971720,Madagascar,6,f,4,foot; pelvic; leg,0.0,Scabies
+AA00971721,Madagascar,63,f,4,back; face; arm; pelvic; torso; leg,0.0,Fungal
+AA00971722,Madagascar,25,f,5,face,0.0,Eczema
+AA00971723,Madagascar,43,m,3,torso; face; arm; back,0.0,Fungal
+AA00971724,Madagascar,8,m,3,torso; face; arm; leg,0.0,Eczema
+AA00971725,Madagascar,35,m,4,torso; back; arm; leg,0.0,Eczema
+AA00971726,Madagascar,30,m,5,torso; back,0.0,Fungal
+AA00971727,Madagascar,10,f,4,torso; face; back,0.0,Fungal
+AA00971728,Madagascar,23,f,4,hand; pelvic; arm,0.0,Scabies
+AA00971729,Madagascar,31,f,4,torso; hand; pelvic,0.0,Scabies
+AA00971730,Madagascar,12,m,4,hair,0.0,Fungal
+AA00971731,Madagascar,2,f,4,torso; foot; arm; leg,0.0,Scabies
+AA00971732,Madagascar,24,f,4,back,0.0,Fungal
+AA00971733,Madagascar,53,f,4,hand,0.0,Fungal
+AA00971734,Madagascar,56,f,5,face,0.0,Fungal
+AA00971735,Madagascar,23,f,4,face,0.0,Fungal
+AA00971736,Madagascar,22,f,4,back,0.0,Eczema
+AA00971737,Madagascar,20,f,4,back,0.0,Eczema
+AA00971739,Madagascar,1,m,5,back; arm; hand; foot; torso; leg,0.0,Scabies
+AA00971740,Madagascar,33,f,5,torso; hand; arm,0.0,Scabies
+AA00971741,Madagascar,38,f,5,hand; arm,0.0,Scabies
+AA00971742,Madagascar,29,f,5,back,0.0,Eczema
+AA00971744,Guinea,41,f,5,foot,0.0,Fungal
+AA00971745,Madagascar,32,f,6,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971746,Madagascar,1,m,5,back; pelvic; arm; foot; hand; torso; leg,0.0,Scabies
+AA00971747,Madagascar,23,m,4,arm,0.0,Fungal
+AA00971748,Madagascar,27,m,4,torso; hand; pelvic; arm,0.0,Scabies
+AA00971749,Madagascar,23,f,4,torso; back,0.0,Fungal
+AA00971750,Madagascar,12,f,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971751,Madagascar,63,f,4,torso; hand; pelvic; back,0.0,Scabies
+AA00971752,Madagascar,43,f,4,torso; arm; leg,0.0,Fungal
+AA00971384,Malawi,8,m,1,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971385,Malawi,7,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971386,Malawi,5,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971387,Malawi,3,m,4,torso; back,0.0,Eczema
+AA00971388,Malawi,3,f,3,torso; face; arm,1.0,Others
+AA00971389,Malawi,4,m,4,hair,0.0,Fungal
+AA00971390,Malawi,7,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971391,Malawi,7,f,3,pelvic; arm; back,0.0,Scabies
+AA00971392,Malawi,2,m,3,back; pelvic; face; arm; torso,0.0,Eczema
+AA00971393,Malawi,8,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971394,Malawi,10,m,3,hair,0.0,Fungal
+AA00971395,Malawi,8,m,3,back; pelvic; arm; torso; leg,0.0,Others
+AA00971396,Malawi,5,m,4,hair,0.0,Fungal
+AA00971397,Malawi,2,m,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971398,Malawi,10,f,4,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971399,Malawi,7,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971400,Malawi,14,m,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971401,Malawi,9,m,3,hair,0.0,Fungal
+AA00971402,Malawi,2,f,3,hair; face,1.0,Others
+AA00971406,Malawi,2,m,4,face,1.0,Others
+AA00971407,Malawi,2,m,3,torso; arm; back,1.0,Others
+AA00971408,Malawi,6,f,3,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971409,Malawi,2,m,4,back; hair; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971784,Madagascar,26,m,4,back,0.0,Fungal
+AA00971785,Madagascar,22,m,4,arm,0.0,Fungal
+AA00971786,Madagascar,44,f,4,face; back,0.0,Fungal
+AA00971787,Madagascar,44,f,4,hand,0.0,Fungal
+AA00971788,Madagascar,53,f,4,torso; back,0.0,Fungal
+AA00971789,Madagascar,1,m,4,foot; pelvic; leg; back,0.0,Scabies
+AA00971790,Madagascar,58,m,5,hair; face,0.0,Eczema
+AA00971791,Madagascar,23,m,4,back,0.0,Fungal
+AA00971793,Madagascar,33,f,3,torso; back,0.0,Fungal
+AA00971794,Madagascar,24,f,4,back,0.0,Fungal
+AA00971795,Madagascar,43,f,4,hand,0.0,Fungal
+AA00971796,Madagascar,1,m,4,torso; pelvic; leg; back,0.0,Scabies
+AA00971797,Madagascar,52,f,4,face,0.0,Fungal
+AA00971798,Madagascar,5,m,5,hair,0.0,Fungal
+AA00971799,Madagascar,27,f,5,back,0.0,Fungal
+AA00971800,Madagascar,1,m,4,face,0.0,Eczema
+AA00971801,Madagascar,48,f,4,hand,0.0,Fungal
+AA00971802,Madagascar,2,m,4,hand; pelvic; arm,0.0,Scabies
+AA00971804,Madagascar,26,m,5,torso; back,0.0,Fungal
+AA00971805,Madagascar,40,f,4,torso,0.0,Eczema
+AA00971807,Madagascar,45,f,4,back,0.0,Eczema
+AA00971808,Madagascar,8,m,3,torso,0.0,Scabies
+AA00971809,Madagascar,53,f,3,arm,0.0,Fungal
+AA00971810,Madagascar,55,m,5,hand,0.0,Eczema
+AA00971811,Madagascar,51,f,3,pelvic,0.0,Fungal
+AA00971812,Madagascar,13,f,5,arm,0.0,Eczema
+AA00971813,Madagascar,58,f,5,arm; leg,0.0,Fungal
+AA00971814,Madagascar,24,f,4,face,0.0,Fungal
+AA00971815,Madagascar,28,m,5,face,0.0,Fungal
+AA00971817,Madagascar,14,f,5,leg,0.0,Eczema
+AA00971820,Madagascar,49,f,5,hand; pelvic; arm; back,0.0,Scabies
+AA00971822,Madagascar,28,f,5,arm,0.0,Eczema
+AA00971823,Madagascar,61,f,5,torso; arm; back,0.0,Fungal
+AA00971824,Madagascar,26,f,4,arm,0.0,Fungal
+AA00971825,Madagascar,22,f,5,face,0.0,Fungal
+AA00971410,Malawi,4,f,4,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971576,Malawi,4,m,5,hair,0.0,Fungal
+AA00971577,Malawi,7,f,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971578,Malawi,7,m,4,hair,0.0,Fungal
+AA00971579,Malawi,4,f,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971581,Malawi,2,m,5,torso,1.0,Others
+AA00971582,Malawi,7,m,5,hair,0.0,Fungal
+AA00971611,Malawi,10,m,3,hair,0.0,Fungal
+AA00971612,Malawi,1,m,5,,1.0,Others
+AA00971613,Malawi,6,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971614,Malawi,4,m,3,face,1.0,Others
+AA00971615,Malawi,3,f,5,hair,0.0,Fungal
+AA00971616,Malawi,10,m,5,hair,0.0,Fungal
+AA00971617,Malawi,6,m,5,hair,0.0,Fungal
+AA00971618,Malawi,3,f,3,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971619,Malawi,3,m,3,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971620,Malawi,8,m,5,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971621,Malawi,8,f,5,face,1.0,Others
+AA00971622,Malawi,1,m,5,face,0.0,Eczema
+AA00971623,Malawi,6,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971624,Malawi,2,m,5,arm,1.0,Others
+AA00971625,Malawi,1,m,5,face,0.0,Eczema
+AA00971626,Malawi,3,m,5,face,1.0,Others
+AA00971627,Malawi,4,f,5,arm,1.0,Others
+AA00971628,Malawi,11,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971629,Malawi,5,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971630,Malawi,1,m,5,arm,1.0,Others
+AA00971631,Malawi,6,f,5,back; hair; pelvic; arm; torso; leg,0.0,Others
+AA00971632,Malawi,9,f,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971633,Malawi,4,m,5,face,1.0,Others
+AA00971635,Malawi,4,f,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971636,Malawi,2,f,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971637,Malawi,4,m,5,leg,1.0,Others
+AA00971828,Madagascar,33,f,4,torso,0.0,Fungal
+AA00971829,Madagascar,31,f,3,hand; arm,0.0,Scabies
+AA00971830,Madagascar,37,f,4,leg,0.0,Fungal
+AA00971831,Madagascar,10,m,5,torso; hand; pelvic,1.0,Scabies
+AA00971832,Madagascar,30,m,4,,0.0,Fungal
+AA00971833,Madagascar,8,f,4,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971834,Madagascar,33,m,5,face,0.0,Fungal
+AA00971835,Madagascar,25,f,3,hand; pelvic; arm,1.0,Scabies
+AA00971836,Madagascar,8,m,4,hair,0.0,Fungal
+AA00971837,Madagascar,9,m,4,hair,0.0,Fungal
+AA00971838,Madagascar,7,m,4,torso; pelvic; leg,0.0,Scabies
+AA00971839,Madagascar,43,m,5,hair; face; back,0.0,Eczema
+AA00971840,Madagascar,32,f,5,pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971841,Madagascar,25,m,4,torso,0.0,Fungal
+AA00971843,Madagascar,19,f,5,,1.0,Eczema
+AA00971845,Madagascar,12,m,3,pelvic; leg,1.0,Eczema
+AA00971846,Madagascar,3,m,3,back; arm; leg,0.0,Eczema
+AA00971847,Madagascar,10,m,4,torso; face; arm; back,0.0,Eczema
+AA00971848,Madagascar,20,m,4,torso,0.0,Fungal
+AA00971849,Madagascar,28,f,3,leg,0.0,Fungal
+AA00971850,Madagascar,33,m,4,face,0.0,Eczema
+AA00971852,Madagascar,63,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971853,Madagascar,11,m,4,hair,0.0,Fungal
+AA00971854,Madagascar,54,f,4,arm,0.0,Fungal
+AA00971855,Madagascar,35,m,5,,0.0,Eczema
+AA00971856,Madagascar,65,m,5,leg,0.0,Fungal
+AA00971857,Madagascar,37,m,4,back,0.0,Fungal
+AA00971859,Madagascar,22,f,4,leg,0.0,Fungal
+AA00971860,Madagascar,45,f,4,face,0.0,Fungal
+AA00971861,Madagascar,32,f,4,arm,0.0,Fungal
+AA00971862,Madagascar,34,f,4,,0.0,Fungal
+AA00971863,Madagascar,53,m,5,torso; pelvic; arm; back,0.0,Fungal
+AA00971864,Madagascar,29,f,4,torso,0.0,Fungal
+AA00971865,Madagascar,34,m,5,,0.0,Fungal
+AA00971866,Madagascar,33,f,3,arm,0.0,Fungal
+AA00971867,Madagascar,28,f,4,pelvic,0.0,Fungal
+AA00971868,Madagascar,27,f,4,pelvic,0.0,Fungal
+AA00971869,Madagascar,35,m,3,torso; arm,0.0,Fungal
+AA00971870,Madagascar,28,f,3,torso,0.0,Fungal
+AA00971871,Madagascar,26,f,4,leg,0.0,Fungal
+AA00971872,Madagascar,52,f,5,torso,0.0,Fungal
+AA00971873,Madagascar,28,m,5,leg,0.0,Fungal
+AA00971874,Madagascar,10,m,5,torso; hair; arm; back,0.0,Eczema
+AA00971876,Madagascar,12,m,4,,0.0,Eczema
+AA00971877,Madagascar,35,f,3,face,0.0,Eczema
+AA00971879,Madagascar,61,m,5,face,0.0,Eczema
+AA00971880,Madagascar,54,f,3,face,0.0,Eczema
+AA00971881,Madagascar,57,m,4,face,0.0,Eczema
+AA00971882,Madagascar,31,m,4,hand,0.0,Eczema
+AA00971883,Madagascar,55,m,5,torso; hand,0.0,Eczema
+AA00971884,Madagascar,56,m,5,torso; hand; arm; back,0.0,Eczema
+AA00971885,Madagascar,2,m,3,leg,0.0,Eczema
+AA00971886,Madagascar,6,m,4,torso; arm,0.0,Eczema
+AA00971887,Madagascar,7,f,5,pelvic; leg,0.0,Eczema
+AA00971888,Madagascar,33,f,4,torso,0.0,Eczema
+AA00971889,Madagascar,14,m,4,,0.0,Eczema
+AA00971890,Madagascar,14,m,4,,0.0,Fungal
+AA00971891,Madagascar,25,f,5,torso; back,0.0,Eczema
+AA00971892,Madagascar,48,f,5,foot; leg,0.0,Eczema
+AA00971893,Madagascar,58,m,5,hand,0.0,Eczema
+AA00971894,Madagascar,43,f,4,leg,0.0,Eczema
+AA00971895,Madagascar,17,f,5,hand; arm; leg,1.0,Eczema
+AA00971896,Madagascar,0,m,4,face; leg,0.0,Eczema
+AA00971897,Madagascar,26,m,5,foot; arm,0.0,Eczema
+AA00971898,Madagascar,15,m,4,torso; hand; arm,0.0,Scabies
+AA00971899,Madagascar,31,m,4,torso; hand; arm; back,0.0,Scabies
+AA00971900,Madagascar,3,f,4,hand; foot; face; leg,0.0,Scabies
+AA00971901,Madagascar,27,f,4,pelvic; leg,0.0,Scabies
+AA00971902,Madagascar,10,m,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971903,Madagascar,11,m,5,pelvic; back,0.0,Scabies
+AA00971904,Madagascar,12,m,5,pelvic; leg,0.0,Scabies
+AA00971905,Madagascar,1,f,4,back; pelvic; arm; hand; foot; torso; leg,0.0,Scabies
+AA00971906,Madagascar,26,m,5,torso; arm; back,0.0,Scabies
+AA00971907,Madagascar,0,m,4,back; pelvic; arm; foot; hand; torso; leg,1.0,Scabies
+AA00971908,Madagascar,54,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971909,Madagascar,46,f,3,face,0.0,Eczema
+AA00971910,Madagascar,11,m,5,torso; arm; back,0.0,Fungal
+AA00971911,Madagascar,10,m,5,torso; face,0.0,Fungal
+AA00971912,Madagascar,11,m,5,back,0.0,Fungal
+AA00971913,Madagascar,54,f,4,back,0.0,Fungal
+AA00971917,Madagascar,31,f,5,leg,0.0,Fungal
+AA00971919,Madagascar,41,f,5,leg,0.0,Fungal
+AA00971914,Madagascar,1,f,3,face; arm; leg,0.0,Eczema
+AA00971920,Madagascar,30,f,4,torso,0.0,Fungal
+AA00971921,Madagascar,34,f,4,pelvic; leg,0.0,Fungal
+AA00971922,Madagascar,27,m,4,face,0.0,Eczema
+AA00971923,Madagascar,26,f,4,torso; back,0.0,Fungal
+AA00971924,Madagascar,14,m,5,torso,0.0,Fungal
+AA00971926,Madagascar,29,f,5,arm,0.0,Fungal
+AA00971927,Madagascar,24,f,5,torso,0.0,Eczema
+AA00971928,Madagascar,22,f,5,face,0.0,Eczema
+AA00971929,Madagascar,35,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971930,Madagascar,21,f,3,back,0.0,Fungal
+AA00971931,Madagascar,30,m,4,torso; face; back,0.0,Fungal
+AA00971932,Madagascar,39,f,5,torso; hand; arm; back,0.0,Scabies
+AA00971933,Madagascar,1,m,3,,1.0,Eczema
+AA00971934,Madagascar,26,m,5,,0.0,Scabies
+AA00971936,Madagascar,1,m,5,face,1.0,Others
+AA00971937,Madagascar,48,m,4,foot,0.0,Fungal
+AA00971938,Madagascar,37,m,5,foot,0.0,Fungal
+AA00971939,Madagascar,8,m,4,back; face; arm; pelvic; foot; hand; torso; leg,0.0,Eczema
+AA00971940,Madagascar,53,m,5,face,0.0,Eczema
+AA00971941,Madagascar,43,m,5,hand; arm,0.0,Eczema
+AA00971942,Madagascar,27,f,4,arm,0.0,Eczema
+AA00971943,Madagascar,45,m,4,leg,0.0,Eczema
+AA00971944,Madagascar,25,f,5,torso; arm; back,0.0,Scabies
+AA00971945,Madagascar,5,f,4,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971947,Madagascar,12,m,4,arm,0.0,Eczema
+AA00971948,Madagascar,29,f,4,leg,0.0,Eczema
+AA00971949,Madagascar,26,m,5,,0.0,Eczema
+AA00971950,Madagascar,13,m,5,foot; leg,1.0,Eczema
+AA00971951,Madagascar,35,f,3,foot; hand,0.0,Fungal
+AA00971952,Madagascar,26,f,3,hand,0.0,Fungal
+AA00971953,Madagascar,47,m,4,foot,0.0,Fungal
+AA00971954,Madagascar,37,m,5,foot,0.0,Fungal
+AA00971956,Madagascar,24,f,5,foot,0.0,Fungal
+AA00971957,Madagascar,35,m,6,foot,0.0,Fungal
+AA00971959,Madagascar,31,m,5,back,0.0,Fungal
+AA00971753,Malawi,1,m,5,face,1.0,Others
+AA00971754,Malawi,7,m,5,hair,1.0,Fungal
+AA00971755,Malawi,7,m,5,face,1.0,Others
+AA00971756,Malawi,5,m,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971757,Malawi,6,m,5,hair,0.0,Fungal
+AA00971960,Madagascar,10,m,4,hair,0.0,Fungal
+AA00971962,Madagascar,53,f,4,hand,0.0,Fungal
+AA00971963,Madagascar,32,f,4,hand,0.0,Fungal
+AA00971964,Madagascar,28,f,5,torso; arm,0.0,Fungal
+AA00971965,Madagascar,49,f,5,hand,0.0,Fungal
+AA00971966,Madagascar,21,m,5,torso; back,0.0,Fungal
+AA00971967,Madagascar,54,f,3,torso; arm; back,0.0,Eczema
+AA00971968,Madagascar,23,m,4,hand,0.0,Eczema
+AA00971969,Madagascar,1,f,3,face,0.0,Eczema
+AA00971970,Madagascar,1,f,4,face,0.0,Eczema
+AA00971971,Madagascar,24,m,3,torso; back; arm; leg,0.0,Eczema
+AA00971972,Madagascar,55,m,5,leg,0.0,Others
+AA00971973,Madagascar,52,f,5,,0.0,Eczema
+AA00971974,Madagascar,46,f,5,pelvic,0.0,Fungal
+AA00971975,Madagascar,58,m,5,back; pelvic; arm; torso; leg,0.0,Fungal
+AA00971976,Madagascar,25,f,5,arm,0.0,Fungal
+AA00971977,Madagascar,29,m,5,face,0.0,Eczema
+AA00971978,Madagascar,5,f,5,torso; hand; pelvic; leg,0.0,Scabies
+AA00971979,Madagascar,10,m,5,hair,0.0,Fungal
+AA00971980,Madagascar,43,f,5,torso,0.0,Fungal
+AA00971981,Madagascar,33,m,5,hair; face,0.0,Eczema
+AA00971982,Madagascar,18,m,5,face,0.0,Fungal
+AA00971983,Madagascar,16,f,4,face,0.0,Fungal
+AA00971984,Madagascar,3,f,4,face,0.0,Fungal
+AA00971985,Madagascar,20,m,4,hand,0.0,Scabies
+AA00971986,Madagascar,13,m,5,torso; hand; pelvic; leg,0.0,Scabies
+AA00971987,Madagascar,33,m,4,leg,0.0,Scabies
+AA00971988,Madagascar,38,f,5,face,0.0,Eczema
+AA00971989,Madagascar,50,f,5,torso,0.0,Fungal
+AA00971990,Madagascar,0,f,4,leg,1.0,Eczema
+AA00971993,Madagascar,41,f,4,pelvic; back,0.0,Scabies
+AA00971992,Madagascar,55,m,5,hand; arm,0.0,Eczema
+AA00971994,Madagascar,56,m,4,leg,0.0,Eczema
+AA00971995,Madagascar,13,m,3,hand,0.0,Scabies
+AA00971996,Madagascar,63,f,3,leg,0.0,Eczema
+AA00971997,Madagascar,15,m,5,back; pelvic; arm; foot; hand; torso; leg,1.0,Scabies
+AA00971998,Madagascar,20,f,5,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971999,Madagascar,5,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00972000,Madagascar,23,m,4,hand,0.0,Scabies
+AA00972001,Madagascar,28,m,5,torso; back,0.0,Scabies
+AA00972002,Madagascar,1,f,4,back; pelvic; arm; foot; torso; leg,0.0,Scabies
+AA00972003,Madagascar,2,f,3,face,1.0,Others
+AA00972004,Madagascar,8,m,5,hair; torso; arm; leg,0.0,Eczema
+AA00972006,Madagascar,25,f,4,back,0.0,Fungal
+AA00972007,Madagascar,3,m,5,hair,0.0,Fungal
+AA00972008,Madagascar,11,m,4,hair,0.0,Eczema
+AA00972009,Madagascar,53,f,5,torso; back,0.0,Fungal
+AA00972010,Madagascar,34,m,4,torso; pelvic; arm; back,0.0,Scabies
+AA00972011,Madagascar,50,f,4,torso,0.0,Fungal
+AA00972012,Madagascar,29,m,5,hair; face,0.0,Eczema
+AA00972013,Madagascar,30,f,5,face,0.0,Fungal
+AA00972014,Madagascar,13,f,4,back; pelvic; hand; torso; leg,0.0,Scabies
+AA00971759,Malawi,10,f,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971760,Malawi,9,m,5,hair,0.0,Fungal
+AA00971761,Malawi,3,m,5,torso; face; arm; back,0.0,Eczema
+AA00971762,Malawi,2,m,5,hair; face; back,1.0,Others
+AA00971763,Malawi,7,f,5,face; arm,1.0,Others
+AA00971764,Malawi,3,m,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971765,Malawi,9,m,5,back; pelvic; arm; torso; leg,1.0,Scabies
+AA00971766,Malawi,9,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971767,Malawi,6,m,5,back; hair; face; arm; pelvic; torso; leg,0.0,Others
+AA00971768,Malawi,2,m,5,pelvic; leg,1.0,Others
+AA00971769,Malawi,5,m,5,leg,1.0,Others
+AA00971770,Malawi,3,m,5,torso; leg,1.0,Others
+AA00971771,Malawi,2,f,5,back; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00971772,Malawi,7,m,5,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00971773,Malawi,2,m,5,pelvic; back,1.0,Others
+AA00971774,Malawi,9,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971775,Malawi,2,f,5,pelvic; back; leg,0.0,Eczema
+AA00971776,Malawi,8,m,5,hand; arm,0.0,Scabies
+AA00971777,Malawi,9,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00971778,Malawi,5,m,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971779,Malawi,1,m,5,hair,1.0,Others
+AA00971781,Malawi,3,f,5,hair,1.0,Fungal
+AA00971782,Malawi,4,m,5,face,1.0,Others
+AA00971783,Malawi,5,m,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00971826,Malawi,2,f,5,face,1.0,Others
+AA00972015,Malawi,2,f,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00972016,Malawi,13,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00972017,Malawi,5,m,5,torso; arm; back,0.0,Eczema
+AA00972018,Malawi,1,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00972019,Malawi,2,f,5,back,0.0,Eczema
+AA00972020,Malawi,4,f,5,arm; leg,0.0,Eczema
+AA00972021,Malawi,3,f,5,pelvic; back; leg,1.0,Others
+AA00972022,Malawi,6,m,5,hair,0.0,Fungal
+AA00972023,Malawi,4,m,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00972024,Malawi,1,m,5,face; leg,1.0,Others
+AA00972025,Malawi,1,f,5,face,1.0,Others
+AA00972026,Malawi,8,m,5,hair,1.0,Fungal
+AA00972027,Malawi,4,f,5,hair,1.0,Others
+AA00972028,Malawi,7,f,5,hair,0.0,Fungal
+AA00972037,Madagascar,27,m,5,,0.0,Fungal
+AA00972038,Madagascar,20,m,4,torso; back,0.0,Fungal
+AA00972040,Madagascar,54,m,4,,0.0,Eczema
+AA00972042,Madagascar,20,m,5,back; face; arm; torso; leg,0.0,Eczema
+AA00972045,Madagascar,24,m,5,back; pelvic; arm; torso; leg,0.0,Fungal
+AA00972046,Madagascar,5,m,3,hair; face; arm; pelvic; torso; leg,0.0,Eczema
+AA00972047,Madagascar,30,m,4,torso; back,0.0,Fungal
+AA00972048,Madagascar,21,m,4,back,0.0,Fungal
+AA00972031,Malawi,9,m,5,hair,0.0,Fungal
+AA00972032,Malawi,1,m,5,leg,1.0,Others
+AA00972033,Malawi,1,m,5,hair,0.0,Fungal
+AA00972034,Malawi,5,m,5,back; pelvic; arm; hand; torso; leg,1.0,Scabies
+AA00972035,Malawi,13,f,5,,0.0,Eczema
+AA00972036,Malawi,7,f,5,hair,0.0,Fungal
+AA00972050,Malawi,1,m,5,leg,1.0,Others
+AA00972051,Malawi,10,m,5,face,1.0,Others
+AA00972052,Malawi,6,m,5,leg,1.0,Others
+AA00972053,Malawi,0,m,5,hair,0.0,Eczema
+AA00972054,Malawi,0,f,5,face,1.0,Others
+AA00972049,Madagascar,7,m,5,hair,0.0,Fungal
+AA00972061,Madagascar,27,f,3,hand,0.0,Eczema
+AA00972062,Madagascar,21,m,5,back; face; arm; torso; leg,0.0,Eczema
+AA00972063,Madagascar,26,m,5,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00972064,Madagascar,20,f,4,torso,0.0,Fungal
+AA00972065,Madagascar,28,f,4,back; pelvic; arm; torso; leg,0.0,Scabies
+AA00972067,Madagascar,3,m,5,,0.0,Eczema
+AA00972068,Madagascar,2,m,5,face,0.0,Eczema
+AA00972069,Madagascar,1,m,5,face,0.0,Eczema
+AA00972070,Madagascar,16,m,5,leg,0.0,Eczema
+AA00972055,Malawi,6,f,5,leg,1.0,Others
+AA00972076,Madagascar,0,f,3,torso; arm; leg,0.0,Eczema
+AA00972077,Madagascar,15,f,5,torso,0.0,Fungal
+AA00972078,Madagascar,18,f,3,hair,0.0,Eczema
+AA00972079,Madagascar,18,m,5,,0.0,Fungal
+AA00972080,Madagascar,23,f,5,arm,0.0,Eczema
+AA00972081,Madagascar,9,m,5,arm,0.0,Eczema
+AA00972083,Madagascar,21,m,5,arm; leg,0.0,Eczema
+AA00972084,Madagascar,15,f,4,torso; arm; leg,0.0,Eczema
+AA00972085,Madagascar,26,m,5,back,0.0,Fungal
+AA00972086,Madagascar,28,m,5,back; pelvic; arm; hand; torso,0.0,Scabies
+AA00972087,Madagascar,26,f,4,hand; pelvic; arm,0.0,Scabies
+AA00972088,Madagascar,13,f,4,torso; hand,0.0,Scabies
+AA00972089,Madagascar,29,f,5,back; pelvic; arm; hand; torso; leg,0.0,Scabies
+AA00972091,Madagascar,23,f,4,,0.0,Eczema
+AA00972056,Malawi,6,f,5,hair,0.0,Fungal
+AA00972057,Malawi,8,m,5,hair,0.0,Fungal
+AA00972058,Malawi,2,f,5,hair,0.0,Fungal
+AA00972059,Malawi,3,m,5,hair,0.0,Fungal
+AA00972060,Malawi,5,f,5,face,1.0,Others
+AA00972073,Malawi,1,f,5,,1.0,Others
+AA00972074,Malawi,5,m,5,face,0.0,Fungal
+AA00972075,Malawi,4,f,5,leg,1.0,Others
+AA00972092,Malawi,4,f,5,hair,1.0,Others
+AA00972098,Madagascar,57,f,4,hand,0.0,Fungal
+AA00972099,Madagascar,23,f,3,face,0.0,Fungal
+AA00972100,Madagascar,10,f,4,torso; face,0.0,Fungal
+AA00972101,Madagascar,34,f,5,torso,0.0,Scabies
+AA00972102,Madagascar,30,f,5,leg,0.0,Scabies
+AA00972103,Madagascar,2,m,5,leg,0.0,Scabies
