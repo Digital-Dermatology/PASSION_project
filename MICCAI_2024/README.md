@@ -33,6 +33,9 @@ To access the dataset, please visit [https://passionderm.github.io/](https://pas
 
 To explore and interact with the dataset, we also suggest using the [Jupyter Notebook file](https://github.com/Digital-Dermatology/PASSION_project/blob/master/2024/Working_with_PASSION_Dataset.ipynb) provided in the repository.
 
+labels.csv contains labels and metadata of the dataset.
+PASSION_split.csv features the TRAIN /TEST split. 
+
 ## ❓ Having an Issue or a Question?
 
 Please feel free to reach out to **Philippe Gottfois** at [philippe.gottfois@unibas.ch](mailto:philippe.gottfois@unibas.ch) 😊
